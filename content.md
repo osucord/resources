@@ -1,5 +1,4 @@
 A collection of tools and resources to enhance your gameplay!
-You think something is missing? contact us!
 ---
 ## Tablets
 - [OpenTabletDriver](https://opentabletdriver.net/) - Open-source tablet driver.
