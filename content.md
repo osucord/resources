@@ -12,7 +12,7 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally.
-- [o!rdr](https://ordr.issou.best/>) - Render your replays online.
+- [o!rdr](https://ordr.issou.best/) - Render your replays online.
 - [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze your replay data.
 ---
 ### Stats Trackers
