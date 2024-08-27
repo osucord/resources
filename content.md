@@ -25,7 +25,7 @@ A collection of tools and resources to enhance your gameplay!
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information for proposed and past pp reworks.
 ---
 ### Beatmap Tools
-- [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily. ([linux alternative](<https://github.com/hwsmm/cosutrainer>))
+- [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily. ([linux alternative](https://github.com/hwsmm/cosutrainer))
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Download many beatmaps at once, and is able to be sorted by tags such as year ranked, etc.
 - [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Import and export collections made by yourself as well as other players.
 ---
@@ -41,7 +41,7 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website.
-- [score inspector](<https://github.com/darkchii/score-inspector-extension>) - Extension compatible with the [osu! scores inspector](<https://score.kirino.sh/>)
+- [score inspector](https://github.com/darkchii/score-inspector-extension) - Extension compatible with the [osu! scores inspector](https://score.kirino.sh/)
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it.
 ---
 ### Streaming
