@@ -1,4 +1,6 @@
 A collection of tools and resources to enhance your gameplay!
+
+-# Think something is missing? Create a PR on [GitHub](https://github.com/osucord/resources)
 ---
 ## Tablets
 - [OpenTabletDriver](https://opentabletdriver.net/) - Open-source tablet driver.
