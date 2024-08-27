@@ -7,16 +7,16 @@ You think something is missing? contact us!
  - [Kuuube's Tablet Buying Guide](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE)
  - [Kuuube's Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU)
  - [Kuuube's Wacom Tablet Pen Compatibility Mastersheet](https://docs.google.com/spreadsheets/d/1UAFPjGj0ThthPBvOSVVwOm08HW3qWtVoP1iFBwLMyPI)
- - [Kuuube's Wacom Pen Nib Guide](https://kuuube.s-ul.eu/mSDcCpuh)**
+ - [Kuuube's Wacom Pen Nib Guide](https://kuuube.s-ul.eu/mSDcCpuh)
 ---
 ## Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally.
 - [o!rdr](https://ordr.issou.best/>) - Render your replays online.
 - [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze your replay data.
 ---
-  ## Stats Trackers
+## Stats Trackers
 - [osu!Track](https://ameobea.me/osutrack/)
-- [osu!Stats](https://osustats.ppy.sh/)**
+- [osu!Stats](https://osustats.ppy.sh/)
 ---
 ## Alternative Leaderboards
 - [Osekai](https://osekai.net/) - Medal solutions and alternative rankings.
@@ -31,7 +31,7 @@ You think something is missing? contact us!
 ## Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes.
 - [Skinship's skin compendium](https://compendium.skinship.xyz/) - Easy to search archive of all osu! skins posted in the Completed Skins forum.
-- [osuskins](https://osuskins.net/)**
+- [osuskins](https://osuskins.net/)
 ---
 ## Mapping Tools
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping.
