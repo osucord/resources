@@ -52,3 +52,4 @@ A collection of tools and resources to enhance your gameplay!
 ### Misc 
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
+- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mindblock.
