@@ -15,7 +15,7 @@ A collection of tools and resources to enhance your gameplay!
 - [o!rdr](https://ordr.issou.best/>) - Render your replays online.
 - [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze your replay data.
 ---
-## Stats Trackers
+### Stats Trackers
 - [osu!Track](https://ameobea.me/osutrack/)
 - [osu!Stats](https://osustats.ppy.sh/)
 ---
