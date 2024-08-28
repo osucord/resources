@@ -35,6 +35,7 @@ A collection of tools and resources to enhance your gameplay!
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes.
 - [Skinship's skin compendium](https://compendium.skinship.xyz/) - Easy to search archive of all osu! skins posted in the Completed Skins forum.
+- [osuskins](https://osuskins.net/) - Compendium of osu! skins, especially from top players.
 ---
 ### Mapping Tools
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping.
@@ -54,5 +55,6 @@ A collection of tools and resources to enhance your gameplay!
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages.
 ---
 ### Misc 
-- [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - The official osu! wiki, with tons of different articles about the game.
-- [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various Discord servers made by the osu! community.
+- [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
+- [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
+- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mindblock.
