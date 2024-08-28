@@ -12,12 +12,13 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally.
-- [o!rdr](https://ordr.issou.best/) - Render your replays online.
+- [o!rdr](https://ordr.issou.best/) - Render your replays online. [Powered by Danser-Go!]
 - [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze your replay data.
 ---
 ### Stats Trackers
 - [osu!Track](https://ameobea.me/osutrack/)
 - [osu!Stats](https://osustats.ppy.sh/)
+- [osu!daily](https://osudaily.net/)
 ---
 ### Alternative Leaderboards
 - [Osekai](https://osekai.net/) - Medal solutions and alternative rankings.
@@ -38,6 +39,7 @@ A collection of tools and resources to enhance your gameplay!
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping.
 - [Naxesss' Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 - [osu! Web Beatmap Viewer](https://preview.tryz.id.vn/) - View a beatmap in an editor-like interface in the browser.
+- [Agka's SV Tools](https://zardoru.github.io/sv-tools/) - Tools to help create and edit Scroll Velocities for the osu!mania mode.
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website.
