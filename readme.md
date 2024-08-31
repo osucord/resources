@@ -4,7 +4,7 @@
 
 This repository contains a curated list of links to various resources for osu! game. The resources are categorized into different sections and are maintained by the community.
 
-This list is displayed nn the `#osu-resources` channel on the [osu! Game Community Discord server](https://discord.gg/osu) for everyone to see.
+This list is displayed in the `#osu-resources` channel on the [osu! Game Community Discord server](https://discord.gg/osu) for everyone to see.
 
 The list is open for contributions from anyone. If you have a resource that you think should be added to the list, you can do so by following the instructions below.
 
@@ -12,8 +12,8 @@ The list is open for contributions from anyone. If you have a resource that you 
 
 If you are unfamiliar with how GitHub works, you can contribute by following these steps:
 
-1. Create a GitHub account, if you don't have one, and log into your account.
-2. At the top of this page, click on the `Fork` button.
+1. [Create a GitHub account](https://github.com/signup) in case you don't have one yet, then log in.
+2. At the top of this page, click on the [Fork](https://github.com/osucord/resources/fork) button.
 
 This will create a copy of this repository in your account. You can now make changes to the contents of this repository:
 
@@ -26,18 +26,18 @@ Once you are done with your changes, you have to commit them to the repository:
 
 1. On the left, find the "Source Control" button (it should have a number next to it indicating uncommitted changes) and click on it.
 2. You will see a list of files that you have changed. You can review the changes by clicking on the file names.
-3. At the top of the source control panel - type in a message that describes the changes you made.
+3. At the top of the source control panel - write a message that describes the changes you made.
 4. Press the `Commit & push` button. This will save your changes to your repository.
 
 You can continue making changes to your repository and commit them as many times as you want. It's a good idea to make changes in batches that make logical sense together and commit them as a single change.
 
-At this point the changes are only in your personal repository. To submit them to the main repository you have to create a pull request:
+At this point, the changes are only in your personal repository. To submit them to the main repository you have to create a pull request:
 
 1. In the same source control panel, at the top - find and click the `Create Pull Request` button.
 2. Give your pull request a title and a description that explains what changes you made.
 3. Press the `Create` button.
 
-Congratulations! You have created a pull request. The maintainers of the repository will review your changes and approve them as soon as possible. After merging them into the main repository, your changes will be visible to everyone on the Discord server shortly.
+That's it! The maintainers of the repository will review your changes and approve them as soon as possible. After merging them into the main repository, your changes will be visible to everyone on the Discord server shortly. We appreciate the contribution.
 
 ## What resources can be added?
 
@@ -48,9 +48,9 @@ You can add any resource you believe would be useful for the osu! community. Thi
 
 Your contributions may be rejected if:
 - The resource is not related to osu! in any way.
-- The content is not in English.
+- The content is not available in English.
 - It violates the official osu! rules, Discord community guidelines or our own Discord server rules.
-- It is a duplicate of an existing resource (alternatives to existing resources are allowed!).
-- The resource is not accessible to everyone (e.g. it requires a subscription).
+- The resource is already on the list.
+- The resource is not accessible to everyone (i.e. it requires a subscription).
 - The tool is not maintained or is outdated.
 - The tool is not useful or relevant to the community, or it has very few active users.
