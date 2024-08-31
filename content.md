@@ -51,9 +51,8 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Streaming
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Various overlays such as pp counter, map information and more.
-- [KeyOverlay](https://github.com/Blondazz/KeyOverlay) - Overlay to show keyboard key usage as a bar timeline.
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages.
-- [osukps](https://github.com/yugecin/osukps) - Displays current and max keys per second.
+- [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter.
 ---
 ### Misc 
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
