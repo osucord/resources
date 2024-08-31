@@ -19,12 +19,12 @@ A collection of tools and resources to enhance your gameplay!
 - [osu!Track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
-- [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
 ---
 ### Alternative Leaderboards
 - [Osekai](https://osekai.net/) - Medal solutions and alternative rankings
 - [osu! scores inspector](https://score.kirino.sh/) - More alternative rankings, as well as clan leaderboards
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information and calculations for proposed and past pp reworks
+- [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
 ---
 ### Beatmap Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
@@ -45,9 +45,9 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
-- [score inspector](https://github.com/darkchii/score-inspector-extension) - Extension compatible with the [osu! scores inspector](https://score.kirino.sh/)
+- [score inspector](https://github.com/darkchii/score-inspector-extension) - This userscript adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
-- [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Extension compatible with [osu! World](https://osuworld.octo.moe/)
+- [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on osu! official website as well as other unofficial ones (Extension compatible with [osu! World](https://osuworld.octo.moe/))
 ---
 ### Streaming
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Various overlays such as pp counter, map information and more
