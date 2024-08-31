@@ -1,6 +1,6 @@
 A collection of tools and resources to enhance your gameplay!
 
--# Think something is missing? Create a PR on [GitHub](https://github.com/osucord/resources)
+-# Something's is missing? Contribute to this list on [GitHub](https://github.com/osucord/resources).
 ---
 ### Tablets
 - [OpenTabletDriver](https://opentabletdriver.net/) - Open-source tablet driver.
@@ -28,7 +28,7 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Beatmap Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily.
-- [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C. 
+- [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C.
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Download many beatmaps at once, and is able to be sorted by tags such as year ranked, etc.
 - [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Import and export collections made by yourself as well as other players.
 ---
@@ -54,7 +54,7 @@ A collection of tools and resources to enhance your gameplay!
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages.
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter.
 ---
-### Misc 
+### Misc
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mindblock.
