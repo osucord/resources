@@ -56,7 +56,7 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### In-game Bots
 These are some of the bots that can be used in the in-game chat. Find the account by username and message them with the commands to get a response.
-- [Tillerino](https://osu.ppy.sh/users/2070907) ([commands](https://github.com/Tillerino/Tillerinobot/wiki)) - Beatmap recommendations based on your TOP10 plays
+- [Tillerino](https://osu.ppy.sh/users/2070907) ([commands](https://github.com/Tillerino/Tillerinobot/wiki)) - Beatmap recommendations based on your top 10 plays
 - [Ameo](https://osu.ppy.sh/users/4093752) ([commands](https://ameobea.me/osutrack/updater/index.php)) - Interfaces with [osu!track](https://ameobea.me/osutrack/) to provide personal stat changes in-game
 - [Sombrax79](https://osu.ppy.sh/users/6484647) ([commands](https://ost.sombrax79.org/commands)) - Recommendations for stamina intensive beatmaps
 ---
