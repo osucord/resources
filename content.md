@@ -45,7 +45,7 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
-- [score inspector](https://github.com/darkchii/score-inspector-extension) - This userscript adds more stats to user profiles on the official osu! websites (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
+- [score inspector](https://github.com/darkchii/score-inspector-extension) - This userscript adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on osu! official website as well as other unofficial ones (Extension compatible with [osu! World](https://osuworld.octo.moe/))
 ---
