@@ -16,7 +16,7 @@ A collection of tools and resources to enhance your gameplay!
 - [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze your replay data
 ---
 ### Stats Trackers
-- [osu!Track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
+- [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
 ---
@@ -53,6 +53,12 @@ A collection of tools and resources to enhance your gameplay!
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Various overlays such as pp counter, map information and more
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter
+---
+### In-game Bots
+These are some of the bots that can be used in the in-game chat. Find the account by username and message them with the commands to get a response.
+- [Tillerino](https://osu.ppy.sh/users/2070907) ([commands](https://github.com/Tillerino/Tillerinobot/wiki)) - Beatmap recommendations based on your TOP10 plays
+- [Ameo](https://osu.ppy.sh/users/4093752) ([commands](https://ameobea.me/osutrack/updater/index.php)) - Interfaces with [osu!track](https://ameobea.me/osutrack/) to provide personal stat changes in-game
+- [Sombrax79](https://osu.ppy.sh/users/6484647) ([commands](https://ost.sombrax79.org/commands)) - Recommendations for stamina intensive beatmaps
 ---
 ### Misc
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
