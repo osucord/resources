@@ -1,0 +1,20 @@
+verbose = "debug"
+no_progress = true 
+max_retries = 3
+
+# Treat a redirect as a new resource and report an error
+max_redirects = 0
+
+# Some websites do not like bots, so we pretend to be a browser
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+
+exclude = [
+  # Lychee reports an error when a link returns binary content
+  'https://kuuube.s-ul.eu/mSDcCpuh',
+
+  # YouTube seems to redirect for some reason
+  'www.youtube.com',
+
+  # Some websites do not like bots
+  'https://score.kirino.sh/',
+]
