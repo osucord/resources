@@ -26,10 +26,14 @@ A collection of tools and resources to enhance your gameplay!
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information and calculations for proposed and past pp reworks
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
 ---
+### Alternative Clients
+- [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
+- [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Alternative osu! client with various training tools and VR support
+- [Web osu!mania](https://web-osu-mania.vercel.app/) - Play osu!mania in the browser
+---
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
-- [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Alternative osu! client with various training tools and VR support
 ---
 ### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Download many beatmaps at once, and is able to be sorted by tags such as year ranked, etc.
