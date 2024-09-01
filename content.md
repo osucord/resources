@@ -50,7 +50,7 @@ A collection of tools and resources to enhance your gameplay!
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
 ---
 ### Streaming
-- [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Various overlays such as pp counter, map information, and more
+- [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter
 ---
