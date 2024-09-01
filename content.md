@@ -26,11 +26,19 @@ A collection of tools and resources to enhance your gameplay!
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information and calculations for proposed and past pp reworks
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
 ---
-### Beatmap Tools
+### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
+- [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Alternative osu! client with various training tools and VR support
+---
+### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Download many beatmaps at once, and is able to be sorted by tags such as year ranked, etc.
 - [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Import and export collections made by yourself as well as other players
+---
+### Beatmap Search Tools
+- [Advanced in-game/web search](https://osu.ppy.sh/wiki/en/Beatmap_search) - Wiki article on how to use the advanced search features in-game and on the website search bar
+- [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
+- [OMDB](http://omdb.nyahh.net/descriptors/) - Beatmaps categorized by various descriptors such as gimmicks, styles, skillsets, and more
 ---
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
