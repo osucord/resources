@@ -29,7 +29,7 @@ A collection of tools and resources to enhance your gameplay!
 ### Beatmap Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
-- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Download a lot of beatmaps at once; you can also apply filters, such as year ranked, and create collections for the downloaded beatmaps.
+- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
 - [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Import and export collections made by yourself as well as other players
 ---
 ### Skins
