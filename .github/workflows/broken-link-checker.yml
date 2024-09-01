@@ -1,0 +1,15 @@
+on:
+  schedule:
+    - cron: 0 0 * * * # run daily
+  workflow_dispatch: # run manually
+    inputs: {}
+  pull_request:
+    branches: [main]
+name: Broken Link Check
+jobs:
+  check:
+    name: Broken Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Broken Link Check
+        uses: technote-space/broken-link-checker-action@v2

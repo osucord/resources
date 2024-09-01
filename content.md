@@ -36,7 +36,7 @@ A collection of tools and resources to enhance your gameplay!
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
 ---
 ### Beatmap Management Tools
-- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Download many beatmaps at once, and is able to be sorted by tags such as year ranked, etc.
+- [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
 - [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Import and export collections made by yourself as well as other players
 ---
 ### Beatmap Search Tools
@@ -64,12 +64,12 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
-- [score inspector](https://github.com/darkchii/score-inspector-extension) - This userscript adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
+- [score inspector](https://github.com/darkchii/score-inspector-extension) - A userscript that adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
-- [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on osu! official website as well as other unofficial ones (Extension compatible with [osu! World](https://osuworld.octo.moe/))
+- [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
 ---
 ### Streaming
-- [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Various overlays such as pp counter, map information and more
+- [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter
 ---
