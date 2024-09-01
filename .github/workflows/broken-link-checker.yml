@@ -1,11 +1,10 @@
 on:
   schedule:
-    - cron: 0 0 1 * * # run monthly
+    - cron: 0 0 * * * # run daily
   workflow_dispatch: # run manually
     types: [check-link]
-  # push:
-  # ...
-
+  pull_request:
+    branches: [main]
 name: Broken Link Check
 jobs:
   check:
