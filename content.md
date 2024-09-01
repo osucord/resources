@@ -43,11 +43,23 @@ A collection of tools and resources to enhance your gameplay!
 - [Advanced in-game/web search](https://osu.ppy.sh/wiki/en/Beatmap_search) - Wiki article on how to use the advanced search features in-game and on the website search bar
 - [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
 - [OMDB](http://omdb.nyahh.net/descriptors/) - Beatmaps categorized by various descriptors such as gimmicks, styles, skillsets, and more
+- Beatmap mirrors - alternative download links for beatmaps:
+  - [osu.direct](https://osu.direct/browse) - Also provides a desktop client and a developer API
+  - [BeatConnect](https://beatconnect.io/) - Also provides a desktop client and a developer API
+  - [Mino](https://catboy.best/search) - Also provides a developer API
+  - [NeriNyan](https://nerinyan.moe/) - Also provides a developer API
 ---
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
 - [Skinship's skin compendium](https://compendium.skinship.xyz/) - Easy to search archive of all osu! skins posted in the Completed Skins forum
 - [osuskins](https://osuskins.net/) - Compendium of osu! skins, especially from top players
+---
+### Mapping Resources
+- [Mappers' Guild](https://mappersguild.com/) - Gamified initiative to create beatmaps for featured artists
+- [Beatmap Nominator Hub](https://bn.mappersguild.com/) - Apply to be a BN, view BN evaluations, vetos, mediations, and more
+- [Mapping/Modding: Guide Compendium](https://osu.ppy.sh/community/forums/topics/722865) - A collection of guides for getting started with mapping and modding
+- [pishifat's osu!mapping tutorials](https://www.youtube.com/playlist?list=PLp7-THR1EUHERrIOV4dGClCGGoLIrQtOx) - Video tutorials on various mapping concepts
+- [Dsco's "How to Make a Ranked osu! Beatmap"](https://www.youtube.com/playlist?list=PLvlfixeOECIz1fFTMkp9Ez_dyPXaJUsIK) - Video tutorials diving into the minutia of expectations for different difficulties in a ranked mapset
 ---
 ### Mapping Tools
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping
