@@ -67,7 +67,7 @@ Your contributions may be rejected if:
 
 ## Acknowledgments
 
-This list has been mostly compiled by the moderators of [osu! Game Community Discord server](https://discord.gg/osu) and maintained by the [contributors of this repository](https://github.com/osucord/resources/graphs/contributors).
+This list has been created and is currently primarily maintained by the staff of the [osu! Game Community Discord server](https://discord.gg/osu), with contributions from our community. The list of users who have directly contributed to this repository can be found [here](https://github.com/osucord/resources/graphs/contributors).
 
 Parts of the list have been adapted from:
 - [awesome-osu](https://github.com/cl8n/awesome-osu/) - Project with very similar goals which is now left unmaintained, with many broken links.
