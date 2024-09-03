@@ -75,7 +75,7 @@ A collection of tools and resources to enhance your gameplay!
 - [score inspector](https://github.com/darkchii/score-inspector-extension) - A userscript that adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
-- [ezpp!](https://github.com/cl8n/awesome-osu?tab=readme-ov-file#installing) - Calculate how much PP a map is worth for a particular score
+- [ezpp!](https://github.com/oamaok/ezpp) ([Chrome](https://chrome.google.com/webstore/detail/ezpp/aimihpobjpagjiakhcpijibnaafdniol), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ezpp/)) - Calculate how much PP a map is worth for a particular score
 ---
 ### Streaming
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
