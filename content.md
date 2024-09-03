@@ -12,8 +12,9 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally
-- [o!rdr](https://ordr.issou.best/) - Render your replays online [Powered by Danser-Go!]
-- [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze your replay data
+- [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
+- [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - Given a replay, displays where the misses happened (also available as a Discord bot)
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
@@ -25,11 +26,13 @@ A collection of tools and resources to enhance your gameplay!
 - [osu! scores inspector](https://score.kirino.sh/) - More alternative rankings, as well as clan leaderboards
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information and calculations for proposed and past pp reworks
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
+- [osu!Skills](https://osuskills.com/) - Ranking based on individual skills
 ---
 ### Alternative Clients
 - [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
-- [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Alternative osu! client with various training tools and VR support
+- [McOsu](https://store.steampowered.com/app/607260/McOsu/) - osu! clone with various training tools and VR support
 - [Web osu!mania](https://web-osu-mania.vercel.app/) - Play osu!mania in the browser
+- [osu!droid](https://osudroid.moe/) - osu! clone for Android devices
 ---
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
@@ -67,6 +70,7 @@ A collection of tools and resources to enhance your gameplay!
 - [score inspector](https://github.com/darkchii/score-inspector-extension) - A userscript that adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
+- [ezpp!](https://github.com/cl8n/awesome-osu?tab=readme-ov-file#installing) - Calculate how much PP a map is worth for a particular score
 ---
 ### Streaming
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
