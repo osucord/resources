@@ -5,15 +5,16 @@ A collection of tools and resources to enhance your gameplay!
 ### Tablets
 - [OpenTabletDriver](https://opentabletdriver.net/) - Open-source tablet driver
 - **Kuuube's Tablet Sheets and Guides**
- - [Kuuube's Tablet Buying Guide](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit)
- - [Kuuube's Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU/edit)
- - [Kuuube's Wacom Tablet Pen Compatibility Mastersheet](https://docs.google.com/spreadsheets/d/1UAFPjGj0ThthPBvOSVVwOm08HW3qWtVoP1iFBwLMyPI/edit)
- - [Kuuube's Wacom Pen Nib Guide](https://kuuube.s-ul.eu/mSDcCpuh)
+  - [Kuuube's Tablet Buying Guide](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit)
+  - [Kuuube's Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU/edit)
+  - [Kuuube's Wacom Tablet Pen Compatibility Mastersheet](https://docs.google.com/spreadsheets/d/1UAFPjGj0ThthPBvOSVVwOm08HW3qWtVoP1iFBwLMyPI/edit)
+  - [Kuuube's Wacom Pen Nib Guide](https://kuuube.s-ul.eu/mSDcCpuh)
 ---
 ### Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally
-- [o!rdr](https://ordr.issou.best/) - Render your replays online [Powered by Danser-Go!]
-- [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze your replay data
+- [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
+- [Replay Analyzer](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - Given a replay, displays where the misses happened (also available as a Discord bot)
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
@@ -25,15 +26,21 @@ A collection of tools and resources to enhance your gameplay!
 - [osu! scores inspector](https://score.kirino.sh/) - More alternative rankings, as well as clan leaderboards
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information and calculations for proposed and past pp reworks
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
+- [osu!Skills](https://osuskills.com/) - Ranking based on individual skills
 ---
 ### Alternative Clients
 - [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
-- [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Alternative osu! client with various training tools and VR support
+- [McOsu](https://store.steampowered.com/app/607260/McOsu/) - osu! clone with various training tools and VR support
 - [Web osu!mania](https://web-osu-mania.vercel.app/) - Play osu!mania in the browser
+- [osu!droid](https://osudroid.moe/) - osu! clone for Android devices
 ---
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
+---
+### Self-improvement
+- [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
+- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mind-block
 ---
 ### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
@@ -67,6 +74,7 @@ A collection of tools and resources to enhance your gameplay!
 - [score inspector](https://github.com/darkchii/score-inspector-extension) - A userscript that adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
+- [ezpp!](https://github.com/oamaok/ezpp) - Calculate how much PP a map is worth for a particular score
 ---
 ### Streaming
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
@@ -82,4 +90,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 ### Misc
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
-- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mindblock
+- [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
