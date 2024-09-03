@@ -2,11 +2,6 @@ A collection of tools and resources to enhance your gameplay!
 
 -# Is something missing? Contribute to this list on [GitHub](https://github.com/osucord/resources).
 ---
-### Self-improvement
-- [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
-- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mind-block
-- [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
----
 ### Tablets
 - [OpenTabletDriver](https://opentabletdriver.net/) - Open-source tablet driver
 - **Kuuube's Tablet Sheets and Guides**
@@ -42,6 +37,11 @@ A collection of tools and resources to enhance your gameplay!
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
+---
+### Self-improvement
+- [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
+- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mind-block
+- [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
 ---
 ### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
