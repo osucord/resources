@@ -40,7 +40,7 @@ A collection of tools and resources to enhance your gameplay!
 ---
 ### Self-improvement
 - [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
-- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside to help with mind-block
+- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside-down to help with mind-block
 ---
 ### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
