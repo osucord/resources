@@ -16,7 +16,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1
         with:
-          args: './content.md'
+          args: '-c .github/lychee.toml ./content.md'
           jobSummary: false
 
       - name: Find Link Checker Issue

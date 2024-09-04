@@ -13,6 +13,6 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: './content.md'
+          args: '-c .github/lychee.toml ./content.md'
           jobSummary: false
           fail: true

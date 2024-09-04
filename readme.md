@@ -1,6 +1,6 @@
 # osu! Game Resources
 
-<img align="right" width="100" height="100" src="./logo.png">
+<img align="right" width="100" height="100" src="./Assets/logo.png">
 
 This repository contains a curated list of links to various resources for osu! game. The resources are categorized into different sections and are maintained by the community.
 
