@@ -69,9 +69,6 @@ A collection of tools and resources to enhance your gameplay!
 - [osu! Web Beatmap Viewer](https://preview.tryz.id.vn/) - View a beatmap in an editor-like interface in the browser
 - [Agka's SV Tools](https://zardoru.github.io/sv-tools/) - Tools to help create and edit Scroll Velocities for the osu!mania mode
 ---
-### Profile Tools
-- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator) - A tool to create BBCode for imagemaps.
----
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
 - [score inspector](https://github.com/darkchii/score-inspector-extension) - A userscript that adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
@@ -94,3 +91,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
+- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator) - A tool to create BBCode for imagemaps.
