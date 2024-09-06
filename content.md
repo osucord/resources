@@ -91,4 +91,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
-- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator) - A tool to create BBCode for imagemaps.
+- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps.
