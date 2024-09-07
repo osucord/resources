@@ -1,0 +1,82 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import { URL } from 'node:url';
+import { readFile } from 'node:fs/promises';
+import { processContent } from "../processing.ts";
+
+const url = new URL('../../../content.md', import.meta.url);
+const rawContent = await readFile(url, 'utf-8');
+const content = processContent(rawContent);
+
+---
+
+<Layout title="osu! game resources">
+	<nav>
+		<div class="container mx-auto flex flex-row justify-between p-6 text-xl">
+			<h1 class="font-bold text-pink-600">osu! game resources</h1>
+			<a href="https://github.com/osucord/resources" target="_blank">
+				<img src="/github.svg" alt="GitHub">
+			</a>
+		</div>
+	</nav>
+
+	<main class="container mx-auto p-6 pt-0">
+		<section class="mb-6">
+			<p>
+				This is a curated collection of tools and resources to enhance your experiance of playing <span class="text-pink-400 bold">osu!</span>
+				This list has been created and is currently primarily maintained by the staff
+				of the <a href="https://discord.gg/osu" target="_blank">osu! Game Community Discord server</a>,
+				with <a href="https://github.com/osucord/resources/graphs/contributors" target="_blank">contributions from our community</a>. 
+			</p>
+		</section>
+
+		<section class="mb-12 border border-gray-700 rounded-lg p-6">
+			<h2 class="font-bold text-xl mb-3">Is something missing?</h2>
+			<p class="mb-3">
+				Feel free to create an issue or a pull request on the <a href="https://github.com/osucord/resources" target="_blank">GitHub page</a>
+				with the additions or improvements you'd like to make to the list.
+			</p>
+			<a
+			 href="https://github.com/osucord/resources/issues/new"
+			 target="_blank"
+			 class="border border-pink-600 text-pink-600 font-bold py-2 px-4 rounded-lg inline-block hover:bg-pink-600 hover:text-black transition"
+			 role="button"
+			>Create an issue</a>
+		</section>
+
+		<section>
+			<input
+				id="search-input"
+				type="text"
+				placeholder="Looking for something specfic?"
+				class="search-input mb-6"
+			/>
+
+			<div id="no-results" class="p-6 rounded-lg border border-l-8 border-red-600 mb-6 hidden">
+				No results found :(
+			</div>
+
+			<div class="card-container">
+				{content.map((item) => (
+					<Card title={item.title}>
+						<Fragment set:html={item.content}/>
+					</Card>
+				))}
+			</div>
+		</section>
+	</main>
+
+	<footer class="container mx-auto p-6 text-center text-gray-500 text-sm">
+		<p class="mb-3">
+			osu! is a registered trademark of ppy Pty Ltd. "osu! game resources" is not affiliated with or endorsed by ppy Pty Ltd.
+			All rights belong to their respective owners.
+		</p>
+		<p>
+			This list is licensed under the <a href="https://github.com/osucord/resources/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>.
+		</p>
+	</footer>
+
+	<script src="./search.ts"></script>
+</Layout>
+
