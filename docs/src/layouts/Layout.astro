@@ -1,0 +1,100 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Curated list of links to various resources for osu! players, mappers, skinners, etc." />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
+
+<style is:global>
+	:root {
+		--bg-color: #13151a;
+	}
+
+	html {
+		font-family: Comfortaa, system-ui, sans-serif;
+		background: var(--bg-color);
+		@apply text-gray-300;
+	}
+
+	body {
+		min-height: 100vh;
+		display: flex;
+    flex-direction: column;
+	}
+
+	footer{
+    margin-top: auto;
+	}
+
+	a:not([role="button"]) {
+		@apply text-pink-600 underline;
+
+		&:hover {
+			@apply text-pink-400;
+		}
+
+		&:not(:hover):visited {
+			@apply text-purple-600;
+		}
+	}
+
+	.search-input {
+		@apply w-full placeholder:text-gray-500 p-4 border border-gray-700 rounded-lg bg-[--bg-color] outline-none focus:border-pink-600;
+		background-image: url('/spyglass.svg');
+		background-repeat: no-repeat;
+		background-size: 20px;
+		background-position: 16px 50%;
+		padding-left: 50px;
+	}
+
+	.card-container {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+		gap: 1rem;
+	}
+
+	.rich-content {
+		h3 {
+			@apply text-xl font-bold mb-3;
+		}
+
+		ul, ol {
+			@apply list-disc pl-6 flex flex-col;
+		}
+
+		& > ul, & > ol {
+			@apply list-none gap-2 pl-0;
+		}
+
+		p {
+			@apply mb-3;
+		}
+	}
+
+	.search-hidden {
+		display: none;
+	}
+
+	mark {
+		@apply shadow bg-pink-600 bg-opacity-25 text-current py-1;
+	}
+</style>
