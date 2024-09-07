@@ -1,6 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+
+import GithubSvg from '../assets/github.svg';
+import SearchSvg from '../assets/spyglass.svg?raw';
+
+import { Image } from 'astro:assets';
 import { URL } from 'node:url';
 import { readFile } from 'node:fs/promises';
 import { processContent } from "../processing.ts";
@@ -16,7 +21,7 @@ const content = processContent(rawContent);
 		<div class="container mx-auto flex flex-row justify-between p-6 text-xl">
 			<h1 class="font-bold text-pink-600">osu! game resources</h1>
 			<a href="https://github.com/osucord/resources" target="_blank">
-				<img src="/github.svg" alt="GitHub">
+				<Image src={GithubSvg} alt="GitHub">
 			</a>
 		</div>
 	</nav>
@@ -49,6 +54,7 @@ const content = processContent(rawContent);
 			<input
 				id="search-input"
 				type="text"
+				style={`background-image: url('data:image/svg+xml;base64,${btoa(SearchSvg)}');`}
 				placeholder="Looking for something specfic?"
 				class="search-input mb-6"
 			/>
@@ -77,6 +83,6 @@ const content = processContent(rawContent);
 		</p>
 	</footer>
 
-	<script src="./search.ts"></script>
+	<script src="../search.ts"></script>
 </Layout>
 
