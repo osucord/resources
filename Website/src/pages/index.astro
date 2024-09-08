@@ -19,7 +19,7 @@ const content = processContent(rawContent);
 <Layout title="osu! game resources">
 	<nav>
 		<div class="container mx-auto flex flex-row justify-between p-6 text-xl">
-			<h1 class="font-bold text-pink-600">osu! game resources</h1>
+			<h1 class="font-bold text-pink-400">osu! game resources</h1>
 			<a href="https://github.com/osucord/resources" target="_blank">
 				<Image src={GithubSvg} alt="GitHub">
 			</a>
@@ -29,10 +29,11 @@ const content = processContent(rawContent);
 	<main class="container mx-auto p-6 pt-0">
 		<section class="mb-6">
 			<p>
-				This is a curated collection of tools and resources to enhance your experiance of playing <span class="text-pink-400 bold">osu!</span>
+				This is a curated collection of tools and resources to enhance your experiance of playing <span class="text-pink-400 font-bold">osu!</span>
 				This list has been created and is currently primarily maintained by the staff
 				of the <a href="https://discord.gg/osu" target="_blank">osu! Game Community Discord server</a>,
-				with <a href="https://github.com/osucord/resources/graphs/contributors" target="_blank">contributions from our community</a>. 
+				with <a href="https://github.com/osucord/resources/graphs/contributors" target="_blank">contributions from our community</a>.
+				The list is also displayed in the <span class="text-pink-400 font-bold">#osu-resources</span> channel on the Discord server.
 			</p>
 		</section>
 
@@ -45,7 +46,7 @@ const content = processContent(rawContent);
 			<a
 			 href="https://github.com/osucord/resources/issues/new"
 			 target="_blank"
-			 class="border border-pink-600 text-pink-600 font-bold py-2 px-4 rounded-lg inline-block hover:bg-pink-600 hover:text-black transition"
+			 class="border border-pink-400 text-pink-400 font-bold py-2 px-4 rounded-lg inline-block hover:bg-pink-400 hover:text-black transition"
 			 role="button"
 			>Create an issue</a>
 		</section>
@@ -59,7 +60,7 @@ const content = processContent(rawContent);
 				class="search-input mb-6"
 			/>
 
-			<div id="no-results" class="p-6 rounded-lg border border-l-8 border-red-600 mb-6 hidden">
+			<div id="no-results" class="p-6 rounded-lg border border-l-8 border-gray-600 mb-6 hidden">
 				No results found :(
 			</div>
 
@@ -84,5 +85,6 @@ const content = processContent(rawContent);
 	</footer>
 
 	<script src="../search.ts"></script>
+	<script src="../analytics.ts"></script>
 </Layout>
 

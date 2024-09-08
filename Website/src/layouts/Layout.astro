@@ -18,6 +18,7 @@ const { title } = Astro.props;
 		<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
+		<script defer src="https://analytics.ekga.me/script.js" data-website-id="64addebe-8262-493d-8bfe-ce47342e552a"></script>
 	</head>
 	<body>
 		<slot />
@@ -46,19 +47,19 @@ const { title } = Astro.props;
 	}
 
 	a:not([role="button"]) {
-		@apply text-pink-600 underline;
+		@apply text-pink-400 underline;
 
 		&:hover {
-			@apply text-pink-400;
+			@apply text-pink-300;
 		}
 
 		&:not(:hover):visited {
-			@apply text-purple-600;
+			@apply text-purple-400;
 		}
 	}
 
 	.search-input {
-		@apply w-full placeholder:text-gray-500 p-4 border border-gray-700 rounded-lg bg-[--bg-color] outline-none focus:border-pink-600;
+		@apply w-full placeholder:text-gray-500 p-4 border border-gray-700 rounded-lg bg-[--bg-color] outline-none focus:border-pink-400;
 		background-repeat: no-repeat;
 		background-size: 20px;
 		background-position: 16px 50%;
@@ -94,6 +95,6 @@ const { title } = Astro.props;
 	}
 
 	mark {
-		@apply shadow bg-pink-600 bg-opacity-25 text-current py-1;
+		@apply shadow bg-pink-400 bg-opacity-25 text-current py-1;
 	}
 </style>
