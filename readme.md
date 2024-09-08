@@ -8,7 +8,7 @@ The list is open for contributions from anyone. If you have a resource that you 
 
 ## The list
 
-**To view the list in your browser: [click here!](https://github.com/osucord/resources/blob/main/content.md)**
+**The website is available at: [https://resources.osucord.moe/](https://resources.osucord.moe/)**
 
 This list is also displayed in the `#osu-resources` channel on the [osu! Game Community Discord server](https://discord.gg/osu) for everyone to see.
 
