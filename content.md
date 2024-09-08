@@ -17,7 +17,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
 - [Rewind](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
 - [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - Given a replay, displays where the misses happened (also available as a Discord bot)
-- [osu-aim-analyzer](https://github.com/rgbeing/osu-aim-analyzer) - An alternative replay analysis tool to help analyze aim mistakes
+- [osu-aim-analyzer](https://github.com/rgbeing/osu-aim-analyzer) - A replay analysis tool to help analyze aim mistakes
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
@@ -58,7 +58,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
 - [Skinship's skin compendium](https://compendium.skinship.xyz/) - Easy to search archive of all osu! skins posted in the Completed Skins forum
 - [osuskins](https://osuskins.net/) - Compendium of osu! skins, especially from top players
-- [OsuSkinMixer](https://github.com/rednir/OsuSkinMixer) - A tool to mix various elements of skins within seconds
+- [OsuSkinMixer](https://github.com/rednir/OsuSkinMixer) - A tool to easily mix various elements of skins
 ---
 ### Mapping Resources
 - [Mappers' Guild](https://mappersguild.com/) - Gamified initiative to create beatmaps for featured artists
@@ -80,7 +80,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
 - [ezpp!](https://github.com/oamaok/ezpp) - Calculate how much PP a map is worth for a particular score
-- [osu-color-changer](https://userstyles.world/style/1767/osu-color-changer) - various colour and stylistic changes for the osu! website, featuring many customization options
+- [osu-color-changer](https://userstyles.world/style/1767/osu-color-changer) - A userstyle allowing various colour and stylistic changes for the osu! website, featuring many customization options
 ---
 ### Streaming
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
