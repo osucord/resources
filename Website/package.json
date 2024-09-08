@@ -14,6 +14,7 @@
     "@astrojs/tailwind": "^5.1.0",
     "@types/node": "^22.5.4",
     "astro": "^4.15.4",
+    "child-process-promise": "^2.2.1",
     "mark.js": "^8.11.1",
     "node-html-parser": "^6.1.13",
     "showdown": "^2.1.0",
@@ -21,6 +22,7 @@
     "typescript": "^5.5.4"
   },
   "devDependencies": {
+    "@types/child-process-promise": "^2.2.6",
     "@types/mark.js": "^8.11.12",
     "@types/showdown": "^2.0.6"
   }

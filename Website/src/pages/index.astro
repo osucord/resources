@@ -9,10 +9,13 @@ import { Image } from 'astro:assets';
 import { URL } from 'node:url';
 import { readFile } from 'node:fs/promises';
 import { processContent } from "../processing.ts";
+import { getLastCommitDate } from '../logs.ts';
 
 const url = new URL('../../../content.md', import.meta.url);
 const rawContent = await readFile(url, 'utf-8');
 const content = processContent(rawContent);
+
+const lastUpdateDate = await getLastCommitDate();
 
 ---
 
@@ -52,6 +55,7 @@ const content = processContent(rawContent);
 		</section>
 
 		<section>
+			<h2 class="font-bold mb-4">Last update: <a href="https://github.com/osucord/resources/commits/main/">{lastUpdateDate}</a></h2>
 			<input
 				id="search-input"
 				type="text"
