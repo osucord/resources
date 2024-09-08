@@ -1,5 +1,7 @@
 A collection of tools and resources to enhance your gameplay!
 
+This list is also available online at: [https://resources.osucord.moe/](https://resources.osucord.moe/)
+
 -# Is something missing? Contribute to this list on [GitHub](https://github.com/osucord/resources).
 ---
 ### Tablets
