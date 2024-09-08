@@ -73,6 +73,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! Web Beatmap Viewer](https://preview.tryz.id.vn/) - View a beatmap in an editor-like interface in the browser
 - [Agka's SV Tools](https://zardoru.github.io/sv-tools/) - Tools to help create and edit Scroll Velocities for the osu!mania mode
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
+- [osucad](https://osucad.com/) - A collaborative beatmap editor
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
