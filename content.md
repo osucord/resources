@@ -89,10 +89,10 @@ This list is also available online at: https://resources.osucord.moe/
 ---
 ### Discord Bots
 - [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich bot with functionality all around osu! - check your recent plays, compare top scores among players, play the bg guessing game
-- [owo](http://owo-bot.xyz/) - A general-purpose bot to show of your profile/recent plays, get map recommendations and compare yourself to others
-- [Yuna](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480) - The official [o!rdr](https://ordr.issou.best/) bot lets you render your replays through discord chat
+- [owo](http://owo-bot.xyz/) - A general-purpose discord bot to show off your profile/recent plays, get map recommendations and compare yourself to others
+- [Yuna](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480) - The official [o!rdr](https://ordr.issou.best/) bot, useful to render replays through discord chat
 - [AxerBot](https://github.com/Hiviexd/AxerBot) - A general-purpose and powerful bot with osu! features related to mapping & modding
-- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A program to analyze misses in an osu! replay (can be used locally or through discord)
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A tool to analyze misses in an osu! replay (has a discord bot and program to run locally)
 ---
 ### In-game Bots
 These are some of the bots that can be used in the in-game chat. Find the account by username and message them with the commands to get a response.
