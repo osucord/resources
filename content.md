@@ -87,18 +87,18 @@ This list is also available online at: https://resources.osucord.moe/
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter
 ---
+### Discord Bots
+- [owo](http://owo-bot.xyz/) - A general-purpose discord bot to show of your profile/recent plays, get map recommendations and compare yourself to others
+- [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich discord bot with functionality all around osu!
+- [Yuna](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480) - The official [o!rdr](https://ordr.issou.best/) bot lets you render your replays through discord chat
+- [AxerBot](https://github.com/Hiviexd/AxerBot) - A general-purpose and powerful Discord bot with osu! features related to mapping & modding
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A program to analyze misses in an osu! replay (can be used locally or through discord)
+---
 ### In-game Bots
 These are some of the bots that can be used in the in-game chat. Find the account by username and message them with the commands to get a response.
 - [Tillerino](https://osu.ppy.sh/users/2070907) ([commands](https://github.com/Tillerino/Tillerinobot/wiki)) - Beatmap recommendations based on your top 10 plays
 - [Ameo](https://osu.ppy.sh/users/4093752) ([commands](https://ameobea.me/osutrack/updater/index.php)) - Interfaces with [osu!track](https://ameobea.me/osutrack/) to provide personal stat changes in-game
 - [Sombrax79](https://osu.ppy.sh/users/6484647) ([commands](https://ost.sombrax79.org/commands)) - Recommendations for stamina intensive beatmaps
----
-### Discord Bots
-- [owo](http://owo-bot.xyz/) - A general-purpose discord bot to show of your profile/recent plays, get map recommendations and compare yourself to others
-- [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich discord bot with functionality all around osu!
-- [Yuna](https://ordr.issou.best/) - The official o!rdr bot lets you render your replays through discord chat
-- [AxerBot](https://github.com/Hiviexd/AxerBot) - A general-purpose and powerful Discord bot with osu! features related to mapping & modding
-- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A program to analyze misses in an osu! replay (can be used locally or through discord)
 ---
 ### Misc
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
