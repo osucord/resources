@@ -16,7 +16,6 @@ This list is also available online at: https://resources.osucord.moe/
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally
 - [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
 - [Rewind](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
-- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - Given a replay, displays where the misses happened (also available as a Discord bot)
 - [osu-aim-analyzer](https://github.com/rgbeing/osu-aim-analyzer) - A replay analysis tool to help analyze aim mistakes
 ---
 ### Stats Trackers
@@ -88,6 +87,13 @@ This list is also available online at: https://resources.osucord.moe/
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter
 ---
+### Discord Bots
+- [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich bot with functionality all around osu! - check your recent plays, compare top scores among players, play the background guessing game and more
+- [owo](http://owo-bot.xyz/) - A general-purpose bot to show off your profile/recent plays, get map recommendations, compare yourself to others and more
+- [Yuna](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480) - The official [o!rdr](https://ordr.issou.best/) bot, useful to render replays through discord chat
+- [AxerBot](https://github.com/Hiviexd/AxerBot) - A general-purpose and powerful bot with osu! features related to mapping & modding
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A tool to analyze misses in an osu! replay (has a discord bot and program to run locally)
+---
 ### In-game Bots
 These are some of the bots that can be used in the in-game chat. Find the account by username and message them with the commands to get a response.
 - [Tillerino](https://osu.ppy.sh/users/2070907) ([commands](https://github.com/Tillerino/Tillerinobot/wiki)) - Beatmap recommendations based on your top 10 plays
@@ -98,4 +104,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
-- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps.
+- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
