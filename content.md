@@ -16,7 +16,6 @@ This list is also available online at: https://resources.osucord.moe/
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally
 - [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
 - [Rewind](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
-- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - Given a replay, displays where the misses happened (also available as a Discord bot)
 - [osu-aim-analyzer](https://github.com/rgbeing/osu-aim-analyzer) - A replay analysis tool to help analyze aim mistakes
 ---
 ### Stats Trackers
@@ -94,8 +93,15 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [Ameo](https://osu.ppy.sh/users/4093752) ([commands](https://ameobea.me/osutrack/updater/index.php)) - Interfaces with [osu!track](https://ameobea.me/osutrack/) to provide personal stat changes in-game
 - [Sombrax79](https://osu.ppy.sh/users/6484647) ([commands](https://ost.sombrax79.org/commands)) - Recommendations for stamina intensive beatmaps
 ---
+### Discord Bots
+- [owo](http://owo-bot.xyz/) - A general-purpose discord bot to show of your profile/recent plays, get map recommendations and compare yourself to others
+- [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich discord bot with functionality all around osu!
+- [Yuna](https://ordr.issou.best/) - The official o!rdr bot lets you render your replays through discord chat
+- [AxerBot](https://github.com/Hiviexd/AxerBot) - A general-purpose and powerful Discord bot with osu! features related to mapping & modding
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A program to analyze misses in an osu! replay (can be used locally or through discord)
+---
 ### Misc
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
-- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps.
+- [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
