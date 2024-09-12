@@ -50,6 +50,7 @@ This list is also available online at: https://resources.osucord.moe/
 ---
 ### Beatmap Search Tools
 - [Advanced in-game/web search](https://osu.ppy.sh/wiki/en/Beatmap_search) - Wiki article on how to use the advanced search features in-game and on the website search bar
+- [osu!re:search](https://search.huismetbenen.nl/) - Website with advanced beatmap search options and filters
 - [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
 - [OMDB](http://omdb.nyahh.net/descriptors/) - Beatmaps categorized by various descriptors such as gimmicks, styles, skillsets, and more
 ---
@@ -105,3 +106,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
 - [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
+- [osu! cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) - Tool to save space by deleting unused elements from beatmaps
