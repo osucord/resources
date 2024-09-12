@@ -29,6 +29,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information and calculations for proposed and past pp reworks
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
 - [osu!Skills](https://osuskills.com/) - Ranking based on individual skills
+- [osu!snipe](https://snipe.huismetbenen.nl/rankings/all) - Website for tracking various leaderboards, such as country #1 rankings
 ---
 ### Alternative Clients
 - [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
@@ -53,6 +54,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!re:search](https://search.huismetbenen.nl/) - Website with advanced beatmap search options and filters
 - [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
 - [OMDB](http://omdb.nyahh.net/descriptors/) - Beatmaps categorized by various descriptors such as gimmicks, styles, skillsets, and more
+- [osu!pps](https://osu-pps.com/#/osu/maps) - Website for finding common farm maps within your skill range
 ---
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
@@ -107,3 +109,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
 - [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
 - [osu! cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) - Tool to save space by deleting unused elements from beatmaps
+- [Mutualify](https://mutualify.stanr.info/) - Find people that are following you, but that you have not mutualed
