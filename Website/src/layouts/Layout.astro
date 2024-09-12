@@ -12,11 +12,13 @@ const { title } = Astro.props;
 		<meta charset="UTF-8" />
 		<meta name="description" content="Curated list of links to various resources for osu! players, mappers, skinners, etc." />
 		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<meta name="theme-color" content="#F472B6" />
+		<meta property="og:image" content="/logo.png" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
-		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 		<script defer src="https://analytics.ekga.me/script.js" data-website-id="64addebe-8262-493d-8bfe-ce47342e552a"></script>
 	</head>
