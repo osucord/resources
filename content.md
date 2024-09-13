@@ -48,6 +48,7 @@ This list is also available online at: https://resources.osucord.moe/
 ### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
 - [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Import and export collections made by yourself as well as other players
+- [osu! cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) - Tool to save space by deleting unnecessary elements from beatmaps
 ---
 ### Beatmap Search Tools
 - [Advanced in-game/web search](https://osu.ppy.sh/wiki/en/Beatmap_search) - Wiki article on how to use the advanced search features in-game and on the website search bar
@@ -108,5 +109,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
 - [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
-- [osu! cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) - Tool to save space by deleting unused elements from beatmaps
 - [Mutualify](https://mutualify.stanr.info/) - Find people that are following you, but that you have not mutualed
