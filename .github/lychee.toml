@@ -17,4 +17,5 @@ exclude = [
 
   # Some websites do not like bots
   'https://score.kirino.sh/',
+  'mutualify.stanr.info',
 ]
