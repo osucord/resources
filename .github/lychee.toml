@@ -1,5 +1,5 @@
 verbose = "debug"
-no_progress = true 
+no_progress = true
 max_retries = 3
 
 # Treat a redirect as a new resource and report an error
@@ -14,6 +14,9 @@ exclude = [
 
   # YouTube seems to redirect for some reason
   'www.youtube.com',
+
+  # This is occasionally offline and or upsets the link checker.
+  'https://arrowvortex.ddrnl.com/',
 
   # Some websites do not like bots
   'https://score.kirino.sh/',
