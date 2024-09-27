@@ -4,6 +4,7 @@ import Card from '../components/Card.astro';
 
 import GithubSvg from '../assets/github.svg';
 import SearchSvg from '../assets/spyglass.svg?raw';
+import Logo from '../../public/logo.png';
 
 import { Image } from 'astro:assets';
 import { URL } from 'node:url';
@@ -19,75 +20,122 @@ const lastUpdateDate = await getLastCommitDate();
 
 ---
 
+<style>
+
+.hero-grid {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-areas: 'image' 'content';
+	gap: 1.5rem;
+}
+
+.hero-grid-image {
+	grid-area: image;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	& > img {
+		height: 100px;
+		width: auto;
+	}
+}
+
+.hero-grid-content {
+	grid-area: content;
+	display: flex;
+	align-items: center;
+}
+
+@screen sm {
+	.hero-grid {
+		grid-template-columns: 1fr auto;
+		grid-template-areas: 'content image';
+	}
+}
+
+</style>
+
 <Layout title="osu! game resources">
-	<nav>
-		<div class="container mx-auto flex flex-row justify-between p-6 text-xl">
-			<h1 class="font-bold text-pink-400">osu! game resources</h1>
-			<a href="https://github.com/osucord/resources" target="_blank">
-				<Image src={GithubSvg} alt="GitHub">
-			</a>
+	<main>
+		<div class="bg-gray-800">
+			<div class="container mx-auto p-6">
+				<div class="flex flex-row justify-between text-xl">
+					<h1 class="font-bold text-pink-400">osu! game resources</h1>
+					<a href="https://github.com/osucord/resources" target="_blank">
+						<Image src={GithubSvg} alt="GitHub"/>
+					</a>
+				</div>
+			</div>
+
+			<section class="mb-6 container mx-auto flex flex-col p-6 pt-0">
+				<div class="hero-grid">
+					<div class="hero-grid-content">
+						<p>
+							This is a curated collection of tools and resources to enhance your experiance of playing <span class="text-pink-400 font-bold">osu!</span>
+							This list has been created and is currently primarily maintained by the staff
+							of the <a href="https://discord.gg/osu" target="_blank">osu! Game Community Discord server</a>,
+							with <a href="https://github.com/osucord/resources/graphs/contributors" target="_blank">contributions from our community</a>.
+							The list is also displayed in the <span class="text-pink-400 font-bold">#osu-resources</span> channel on the Discord server.
+						</p>
+					</div>
+					<div class="hero-grid-image">
+						<Image src={Logo} alt="GitHub" />
+					</div>
+				</div>
+			</section>
 		</div>
-	</nav>
 
-	<main class="container mx-auto p-6 pt-0">
-		<section class="mb-6">
-			<p>
-				This is a curated collection of tools and resources to enhance your experiance of playing <span class="text-pink-400 font-bold">osu!</span>
-				This list has been created and is currently primarily maintained by the staff
-				of the <a href="https://discord.gg/osu" target="_blank">osu! Game Community Discord server</a>,
-				with <a href="https://github.com/osucord/resources/graphs/contributors" target="_blank">contributions from our community</a>.
-				The list is also displayed in the <span class="text-pink-400 font-bold">#osu-resources</span> channel on the Discord server.
-			</p>
-		</section>
+		<div class="container mx-auto p-6 pt-0">
+			<section class="mb-12 border border-gray-700 rounded-lg p-6">
+				<h2 class="font-bold text-xl mb-3">Is something missing?</h2>
+				<p class="mb-3">
+					Feel free to create an issue or a pull request on the <a href="https://github.com/osucord/resources" target="_blank">GitHub page</a>
+					with the additions or improvements you'd like to make to the list.
+				</p>
+				<a
+				href="https://github.com/osucord/resources/issues/new"
+				target="_blank"
+				class="border border-pink-400 text-pink-400 font-bold py-2 px-4 rounded-lg inline-block hover:bg-pink-400 hover:text-black transition"
+				role="button"
+				>Create an issue</a>
+			</section>
 
-		<section class="mb-12 border border-gray-700 rounded-lg p-6">
-			<h2 class="font-bold text-xl mb-3">Is something missing?</h2>
-			<p class="mb-3">
-				Feel free to create an issue or a pull request on the <a href="https://github.com/osucord/resources" target="_blank">GitHub page</a>
-				with the additions or improvements you'd like to make to the list.
-			</p>
-			<a
-			 href="https://github.com/osucord/resources/issues/new"
-			 target="_blank"
-			 class="border border-pink-400 text-pink-400 font-bold py-2 px-4 rounded-lg inline-block hover:bg-pink-400 hover:text-black transition"
-			 role="button"
-			>Create an issue</a>
-		</section>
+			<section>
+				<h2 class="font-bold mb-4">Last update: <a href="https://github.com/osucord/resources/commits/main/">{lastUpdateDate}</a></h2>
+				<input
+					id="search-input"
+					type="text"
+					style={`background-image: url('data:image/svg+xml;base64,${btoa(SearchSvg)}');`}
+					placeholder="Looking for something specfic?"
+					class="search-input mb-6"
+				/>
 
-		<section>
-			<h2 class="font-bold mb-4">Last update: <a href="https://github.com/osucord/resources/commits/main/">{lastUpdateDate}</a></h2>
-			<input
-				id="search-input"
-				type="text"
-				style={`background-image: url('data:image/svg+xml;base64,${btoa(SearchSvg)}');`}
-				placeholder="Looking for something specfic?"
-				class="search-input mb-6"
-			/>
+				<div id="no-results" class="p-6 rounded-lg border border-l-8 border-gray-600 mb-6 hidden">
+					No results found :(
+				</div>
 
-			<div id="no-results" class="p-6 rounded-lg border border-l-8 border-gray-600 mb-6 hidden">
-				No results found :(
-			</div>
+				<div class="card-container">
+					{content.map((item) => (
+						<Card title={item.title}>
+							<Fragment set:html={item.content}/>
+						</Card>
+					))}
+				</div>
+			</section>
 
-			<div class="card-container">
-				{content.map((item) => (
-					<Card title={item.title}>
-						<Fragment set:html={item.content}/>
-					</Card>
-				))}
-			</div>
-		</section>
+			<footer class="pt-6 text-center text-gray-500 text-sm">
+				<p class="mb-3">
+					osu! is a registered trademark of ppy Pty Ltd. "osu! game resources" is not affiliated with or endorsed by ppy Pty Ltd.
+					All rights belong to their respective owners.
+				</p>
+				<p>
+					This list is licensed under the <a href="https://github.com/osucord/resources/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>.
+				</p>
+			</footer>
+		</div>
 	</main>
-
-	<footer class="container mx-auto p-6 text-center text-gray-500 text-sm">
-		<p class="mb-3">
-			osu! is a registered trademark of ppy Pty Ltd. "osu! game resources" is not affiliated with or endorsed by ppy Pty Ltd.
-			All rights belong to their respective owners.
-		</p>
-		<p>
-			This list is licensed under the <a href="https://github.com/osucord/resources/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>.
-		</p>
-	</footer>
-
+	
 	<script src="../search.ts"></script>
 	<script src="../analytics.ts"></script>
 </Layout>
