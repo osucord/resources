@@ -72,7 +72,7 @@ This list is also available online at: https://resources.osucord.moe/
 ---
 ### Mapping Tools
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping
-- [Naxesss' Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) - Tools to make sure your map is ready for ranking
+- [Naxesss' Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) - Tools to make sure your map is ready for ranking ([taiko](https://github.com/Hiviexd/MVTaikoChecks)/[mania](https://github.com/MChecaH/ManiaCheck) plugin)
 - [osu! Web Beatmap Viewer](https://preview.tryz.id.vn/) - View a beatmap in an editor-like interface in the browser
 - [Agka's SV Tools](https://zardoru.github.io/sv-tools/) - Tools to help create and edit Scroll Velocities for the osu!mania mode
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
