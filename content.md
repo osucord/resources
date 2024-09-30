@@ -4,6 +4,14 @@ This list is also available online at: https://resources.osucord.moe/
 
 -# Is something missing? Contribute to this list on [GitHub](https://github.com/osucord/resources).
 ---
+### Official links
+- [@osugame YouTube](https://www.youtube.com/@osugame) - The official osu! YouTube channel for game updates and staff interviews
+- [@osugame Twitter](https://x.com/osugame) - The official osu! Twitter account highlighting featured artists and official tournaments
+- [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
+- [osu! tournaments](https://osu.ppy.sh/community/tournaments) - The listing of ongoing and past tournaments ran by the official game staff
+- [osu! Discord servers](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
+- [ppy blog](https://blog.ppy.sh/) - Peppy's osu! development blog (not very active, but great a snapshot of osu! history)
+---
 ### Tablets
 - [OpenTabletDriver](https://opentabletdriver.net/) - Open-source tablet driver
 - **Kuuube's Tablet Sheets and Guides**
@@ -20,6 +28,7 @@ This list is also available online at: https://resources.osucord.moe/
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
+  - [Daily Challenge Stats](https://ameobea.me/osutrack/daily-challenge/) - View personal and global stats for daily challenges
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
 ---
@@ -40,10 +49,16 @@ This list is also available online at: https://resources.osucord.moe/
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
----
-### Self-improvement
-- [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
 - [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside-down to help with mind-block
+---
+### Guides
+- [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
+- [osu! phd](https://www.youtube.com/watch?v=uc99yWeP1h4) - A comprehensive introduction to every skill in the game and how they relate to each other
+- [verto's osu!guides](https://www.youtube.com/playlist?list=PLGeq_WL32alSbhg0GgL_a_Dj6t74Y9M33) - Explanations and discussions of osu! terms in video form
+- [Spare's guide to improve tapping](https://www.youtube.com/watch?v=yXdtbFNgCfY) - Tapping tips directly from a top 100 player
+- Audio latency improvement guides:
+  - [For Windows, by g00burr](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/)
+  - [For Linux, by ThePoon](https://blog.thepoon.fr/osuLinuxAudioLatency/)
 ---
 ### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
@@ -90,6 +105,16 @@ This list is also available online at: https://resources.osucord.moe/
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter
+- [osu! Tourney Match Display](https://otmd.app/) - Shows real-time stats of an ongoing osu! multiplayer match while streaming
+---
+### Tournaments
+- [osu! on Liquipedia](https://liquipedia.net/osu/Main_Page) - Wiki for past and future tournaments documenting participants, map pools, matchups, prizes and more.
+- [Awesome osu! tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of useful tools and resources for managing an osu! tournament
+- [Community tournaments forum](https://osu.ppy.sh/community/forums/55) - Forum for the community run tournaments, must be listed here for a chance to be badged
+- [osu!Collector Tournaments](https://osucollector.com/tournaments) - Repository of map pools from various concluded tournaments
+- [osu! Tournament Union Database](https://otu.stagec.xyz/) - A database of maps used in various tournaments with difficulty and skillset filters
+- [Mario564's Team Tournament Template](https://l-mario564.github.io/Team-Tournament-Spreadsheet-Documentation/index.html) - A Google Sheets template to manage a team's availability, tryout map pools, compare your teams's and opponent scores
+- [Squink's Tournament History Template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U/edit?gid=230730286#gid=230730286) - A Google Sheets template for tracking personal tournament history
 ---
 ### Discord Bots
 - [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich bot with functionality all around osu! - check your recent plays, compare top scores among players, play the background guessing game and more
@@ -105,8 +130,7 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [Sombrax79](https://osu.ppy.sh/users/6484647) ([commands](https://ost.sombrax79.org/commands)) - Recommendations for stamina intensive beatmaps
 ---
 ### Misc
-- [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
-- [osu! discord communities](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
 - [osu!mania Pattern Repository](https://imgur.com/a/replacement-glossary-osu-mania-pattern-repository-qEwP37W) - A glossary of common osu!mania patterns and terms
 - [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
 - [Mutualify](https://mutualify.stanr.info/) - Find people that are following you, but that you have not mutualed
+- [osu! beatmap heatmap](https://osu-heatmap.ekga.me/) - View the playfield usage of a beatmap, sometimes revealing a hidden beauty some mappers hide in their maps
