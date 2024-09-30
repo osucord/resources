@@ -64,15 +64,15 @@ This list is also available online at: https://resources.osucord.moe/
 - [OsuSkinMixer](https://github.com/rednir/OsuSkinMixer) - A tool to easily mix various elements of skins
 ---
 ### Mapping Resources
-- [Mappers' Guild](https://mappersguild.com/) - Gamified initiative to create beatmaps for featured artists
+- [Mappers' Guild](https://mappersguild.com/) - A hub for beatmaps associated with osu!'s Featured Artists
 - [Beatmap Nominator Hub](https://bn.mappersguild.com/) - Apply to be a BN, view BN evaluations, vetos, mediations, and more
 - [Mapping/Modding: Guide Compendium](https://osu.ppy.sh/community/forums/topics/722865) - A collection of guides for getting started with mapping and modding
 - [pishifat's osu!mapping tutorials](https://www.youtube.com/playlist?list=PLp7-THR1EUHERrIOV4dGClCGGoLIrQtOx) - Video tutorials on various mapping concepts
 - [Dsco's "How to Make a Ranked osu! Beatmap"](https://www.youtube.com/playlist?list=PLvlfixeOECIz1fFTMkp9Ez_dyPXaJUsIK) - Video tutorials diving into the minutia of expectations for different difficulties in a ranked mapset
-- [Taeyang's Mapping & Pattern Box](https://docs.google.com/spreadsheets/d/1A7nRbKJlIIOhmjIhnvOEAjwEOym6i7whsozJlbBR7QY/edit?usp=sharing) - A collection of patterns to use in your maps.
-- [Net0's Hitsound Library](https://drive.google.com/drive/u/0/folders/1xpfSzxPxBH932BKHr5rk6lk6lGd1DbIq) - A folder full of well-sorted samples to make it easier to find custom samples for your maps.
-- [Lasse's Hitsounding Guide](https://docs.google.com/document/d/1tS5udToW_SEiCKNFSg7DUuZmsdroUOO8cRYEcwZV9P8/edit) - A good guide for those learning hitsounding.
-- [Sliderbase](https://photos.google.com/share/AF1QipM-5gNgHPHcVQomyu8xFlHw25h4KoQptjBkGg6WV8wtJtdvhXP2eTYcSlJbNLXziQ?pli=1&key=N1FWWk81ZFpBdGVwajZIS3A0cHB0ZUxDZWpFT2Vn) - A collection of sliders you can take inspiration from.
+- [Taeyang's Mapping & Pattern Box](https://docs.google.com/spreadsheets/d/1A7nRbKJlIIOhmjIhnvOEAjwEOym6i7whsozJlbBR7QY/edit?usp=sharing) - A collection of patterns to use in your maps
+- [Net0's Hitsound Library](https://drive.google.com/drive/u/0/folders/1xpfSzxPxBH932BKHr5rk6lk6lGd1DbIq) - A folder full of sorted samples for beatmaps
+- [Lasse's Hitsounding Guide](https://docs.google.com/document/d/1tS5udToW_SEiCKNFSg7DUuZmsdroUOO8cRYEcwZV9P8/edit) - A guide for those learning hitsounding
+- [Sliderbase](https://photos.google.com/share/AF1QipM-5gNgHPHcVQomyu8xFlHw25h4KoQptjBkGg6WV8wtJtdvhXP2eTYcSlJbNLXziQ?pli=1&key=N1FWWk81ZFpBdGVwajZIS3A0cHB0ZUxDZWpFT2Vn) - A collection of sliders for beatmaps
 ---
 ### Mapping Tools
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping
