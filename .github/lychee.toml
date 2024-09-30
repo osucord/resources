@@ -22,4 +22,5 @@ exclude = [
   'https://score.kirino.sh/',
   'mutualify.stanr.info',
   'www.reddit.com',
+  'otu.stagec.xyz',
 ]
