@@ -10,15 +10,16 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 exclude = [
   # Lychee reports an error when a link returns binary content
-  'https://kuuube.s-ul.eu/mSDcCpuh',
+  'kuuube.s-ul.eu/mSDcCpuh',
 
-  # YouTube seems to redirect for some reason
+  # Google seems to redirect for some reason
   'www.youtube.com',
+  'drive.google.com',
 
   # This is occasionally offline and or upsets the link checker.
-  'https://arrowvortex.ddrnl.com/',
+  'arrowvortex.ddrnl.com',
 
   # Some websites do not like bots
-  'https://score.kirino.sh/',
+  'score.kirino.sh',
   'mutualify.stanr.info',
 ]
