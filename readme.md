@@ -73,6 +73,6 @@ Parts of the list have been adapted from:
 - [awesome-osu](https://github.com/cl8n/awesome-osu/) - Project with very similar goals which is now left unmaintained, with many broken links.
 - [List of osu! bots](https://osu.ppy.sh/community/forums/topics/1662993) - The in-game bots that are still functional and available were added to this list.
 - [osu! Development forum](https://osu.ppy.sh/community/forums/2) - Where people go to tell the world about their projects related to osu!
-- [osu!tools](https://osutools.com/) = List of 3rd party tools related to osu!
+- [osu!tools](https://osutools.com/) - List of 3rd party tools related to osu!
 - [awesome-osu-tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of links for osu! tournament managers
     - Special thanks to [MiraiSubject](https://github.com/MiraiSubject) for direct input for additions to the resources
