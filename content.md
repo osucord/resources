@@ -56,9 +56,9 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! phd](https://www.youtube.com/watch?v=uc99yWeP1h4) - A comprehensive introduction to every skill in the game and how they relate to each other
 - [verto's osu!guides](https://www.youtube.com/playlist?list=PLGeq_WL32alSbhg0GgL_a_Dj6t74Y9M33) - Explanations and discussions of osu! terms in video form
 - [Spare's guide to improve tapping](https://www.youtube.com/watch?v=yXdtbFNgCfY) - Tapping tips directly from a top 100 player
-- Audio latency improvement guides:
-  - [For Windows, by g00burr](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/)
-  - [For Linux, by ThePoon](https://blog.thepoon.fr/osuLinuxAudioLatency/)
+- [g00burr's audio latency improvement guide](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/) - A guide for how to minimize audio latency on Windows
+- [MarshNello's Installing osu! on Linux](https://blog.thepoon.fr/osuLinuxAudioLatency/) - A guide for how to set up osu! to run smoothly on Linux
+  - [Even lower latency](https://github.com/NelloKudo/osu-winello/wiki/Even-lower-latency:-PipeWire-settings) - Some additional settings you should consider for even lower audio latency on Linux
 ---
 ### Beatmap Management Tools
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) - Tool to mass download beatmaps, you can also apply filters and create collections for the downloaded beatmaps
