@@ -56,6 +56,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
 - [OMDB](http://omdb.nyahh.net/descriptors/) - Beatmaps categorized by various descriptors such as gimmicks, styles, skillsets, and more
 - [osu!pps](https://osu-pps.com/#/osu/maps) - Website for finding common farm maps within your skill range
+- [osu! Beatmap Atlas](https://osu-atlas.ameo.dev/) - A map that groups similar beatmaps together in space
 ---
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
