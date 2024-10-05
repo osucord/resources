@@ -22,4 +22,6 @@ exclude = [
   # Some websites do not like bots
   'score.kirino.sh',
   'mutualify.stanr.info',
+  'www.reddit.com',
+  'otu.stagec.xyz',
 ]
