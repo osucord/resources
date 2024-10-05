@@ -108,7 +108,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! Tourney Match Display](https://otmd.app/) - Shows real-time stats of an ongoing osu! multiplayer match while streaming
 ---
 ### Tournaments
-- [osu! on Liquipedia](https://liquipedia.net/osu/Main_Page) - Wiki for past and future tournaments documenting participants, map pools, matchups, prizes and more.
+- [osu! on Liquipedia](https://liquipedia.net/osu/Main_Page) - Wiki for past and future tournaments documenting participants, map pools, matchups, prizes and more
 - [Awesome osu! tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of useful tools and resources for managing an osu! tournament
 - [Community tournaments forum](https://osu.ppy.sh/community/forums/55) - Forum for the community run tournaments, must be listed here for a chance to be badged
 - [osu!Collector Tournaments](https://osucollector.com/tournaments) - Repository of map pools from various concluded tournaments
