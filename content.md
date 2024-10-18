@@ -33,7 +33,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
 ---
 ### Alternative Leaderboards
-- [Osekai](https://osekai.net/home/) - Medal solutions and alternative rankings
+- [Osekai](https://inex.osekai.net/) - Medal solutions and alternative rankings
 - [osu! scores inspector](https://score.kirino.sh/) - More alternative rankings, as well as clan leaderboards
 - [PP Rankings](https://pp.huismetbenen.nl/rankings/players/master) - Information and calculations for proposed and past pp reworks
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
