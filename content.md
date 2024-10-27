@@ -57,7 +57,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [verto's osu!guides](https://www.youtube.com/playlist?list=PLGeq_WL32alSbhg0GgL_a_Dj6t74Y9M33) - Explanations and discussions of osu! terms in video form
 - [Spare's guide to improve tapping](https://www.youtube.com/watch?v=yXdtbFNgCfY) - Tapping tips directly from a top 100 player
 - [g00burr's audio latency improvement guide](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/) - A guide for how to minimize audio latency on Windows
-- [MarshNello's Installing osu! on Linux](https://blog.thepoon.fr/osuLinuxAudioLatency/) - A guide for how to set up osu! to run smoothly on Linux
+- [MarshNello's Installing osu! on Linux](https://osu.ppy.sh/community/forums/topics/1248084) - A guide for how to set up osu! to run smoothly on Linux
   - [Even lower latency](https://github.com/NelloKudo/osu-winello/wiki/Even-lower-latency:-PipeWire-settings) - Some additional settings you should consider for even lower audio latency on Linux
 ---
 ### Beatmap Management Tools
@@ -76,7 +76,6 @@ This list is also available online at: https://resources.osucord.moe/
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
 - [Skinship's skin compendium](https://compendium.skinship.xyz/) - Easy to search archive of all osu! skins posted in the Completed Skins forum
-- [osuskins](https://osuskins.net/) - Compendium of osu! skins, especially from top players
 - [OsuSkinMixer](https://github.com/rednir/OsuSkinMixer) - A tool to easily mix various elements of skins
 ---
 ### Mapping Resources
