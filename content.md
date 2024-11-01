@@ -76,6 +76,7 @@ This list is also available online at: https://resources.osucord.moe/
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
 - [Skinship's skin compendium](https://compendium.skinship.xyz/) - Easy to search archive of all osu! skins posted in the Completed Skins forum
+- [Circle People](https://circle-people.com/skins/) - List of skins used by various well-known players
 - [OsuSkinMixer](https://github.com/rednir/OsuSkinMixer) - A tool to easily mix various elements of skins
 ---
 ### Mapping Resources
