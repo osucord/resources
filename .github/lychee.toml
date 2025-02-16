@@ -10,7 +10,7 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 exclude = [
   # Lychee reports an error when a link returns binary content
-  'kuuube.s-ul.eu/mSDcCpuh',
+  'kuuube.s-ul.eu/OMxd0twx',
 
   # Google seems to redirect for some reason
   'www.youtube.com',

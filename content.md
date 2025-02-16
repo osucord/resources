@@ -18,7 +18,7 @@ This list is also available online at: https://resources.osucord.moe/
   - [Kuuube's Tablet Buying Guide](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit)
   - [Kuuube's Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU/edit)
   - [Kuuube's Wacom Tablet Pen Compatibility Mastersheet](https://docs.google.com/spreadsheets/d/1UAFPjGj0ThthPBvOSVVwOm08HW3qWtVoP1iFBwLMyPI/edit)
-  - [Kuuube's Wacom Pen Nib Guide](https://kuuube.s-ul.eu/mSDcCpuh)
+  - [Kuuube's Wacom Pen Nib Guide](https://kuuube.s-ul.eu/OMxd0twx)
 ---
 ### Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally
