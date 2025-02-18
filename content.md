@@ -32,6 +32,11 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
 ---
+### PP counters
+- [Tosu](https://tosu.app) - Memory reader for Stable and osu! lazer, that provides overlays (pp counters) and supports tournaments client (Stable only)
+- [gosumemory](https://github.com/l3lackShark/gosumemory) - Cross-Platform memory reader for osu!
+- [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Program directed towards osu! streamers to provide pp counters and map information displays
+---
 ### Alternative Leaderboards
 - [Osekai](https://inex.osekai.net/) - Medal solutions and alternative rankings
 - [osu! scores inspector](https://score.kirino.sh/) - More alternative rankings, as well as clan leaderboards
