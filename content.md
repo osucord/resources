@@ -31,6 +31,7 @@ This list is also available online at: https://resources.osucord.moe/
   - [Daily Challenge Stats](https://ameobea.me/osutrack/daily-challenge/) - View personal and global stats for daily challenges
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
+- [osu!live](https://osulive.mittens.cc/) - Watch a live feed of global score submissions
 ---
 ### Alternative Leaderboards
 - [Osekai](https://inex.osekai.net/) - Medal solutions and alternative rankings
