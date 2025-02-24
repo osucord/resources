@@ -108,6 +108,8 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu-color-changer](https://userstyles.world/style/1767/osu-color-changer) - A userstyle allowing various colour and stylistic changes for the osu! website, featuring many customization options
 ---
 ### Streaming
+- [Tosu](https://tosu.app) - Memory reader for Stable and osu! lazer, that provides overlays (pp counters) and supports tournaments client (Stable only)
+- [gosumemory](https://github.com/l3lackShark/gosumemory) - Cross-Platform memory reader for osu! offering a number of preset overlays
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
 - [JKPS](https://github.com/Tonetfal/JKPS) - Keyboard overlay featuring key press visualisation and a keys per second meter
