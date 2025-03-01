@@ -70,7 +70,6 @@ This list is also available online at: https://resources.osucord.moe/
 - [Advanced in-game/web search](https://osu.ppy.sh/wiki/en/Beatmap_search) - Wiki article on how to use the advanced search features in-game and on the website search bar
 - [osu!re:search](https://search.huismetbenen.nl/) - Website with advanced beatmap search options and filters
 - [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
-- [OMDB](http://omdb.nyahh.net/descriptors/) - Beatmaps categorized by various descriptors such as gimmicks, styles, skillsets, and more
 - [osu!pps](https://osu-pps.com/#/osu/maps) - Website for finding common farm maps within your skill range
 - [osu! Beatmap Atlas](https://osu-atlas.ameo.dev/) - A map that groups similar beatmaps together in space
 ---
