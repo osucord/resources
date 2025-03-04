@@ -40,6 +40,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
 - [osu!Skills](https://osuskills.com/) - Ranking based on individual skills
 - [osu!snipe](https://snipe.huismetbenen.nl/rankings/all) - Website for tracking various leaderboards, such as country #1 rankings
+- [Relaxation Vault](https://rx.stanr.info/) - osu!lazer relax leaderboard
 ---
 ### Alternative Clients
 - [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
