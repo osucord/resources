@@ -51,7 +51,7 @@ This list is also available online at: https://resources.osucord.moe/
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
-- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside-down to help with mind-block
+- [Shikke's Anti-Mindblock](https://github.com/ShikkesoraSIM/anti-mindblock/releases/latest) - A tool to quickly flip your monitor upside-down to help with mind-block
 ---
 ### Guides
 - [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
