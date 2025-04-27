@@ -26,4 +26,5 @@ exclude = [
   'www.reddit.com',
   'otu.stagec.xyz',
   'web-osu-mania.pages.dev',
+  'github.com/ShikkesoraSIM/anti-mindblock/releases/latest',
 ]
