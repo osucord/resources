@@ -120,7 +120,6 @@ This list is also available online at: https://resources.osucord.moe/
 - [Awesome osu! tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of useful tools and resources for managing an osu! tournament
 - [Community tournaments forum](https://osu.ppy.sh/community/forums/55) - Forum for the community run tournaments, must be listed here for a chance to be badged
 - [osu!Collector Tournaments](https://osucollector.com/tournaments) - Repository of map pools from various concluded tournaments
-- [osu! Tournament Union Database](https://otu.stagec.xyz/) - A database of maps used in various tournaments with difficulty and skillset filters
 - [Mario564's Team Tournament Template](https://l-mario564.github.io/Team-Tournament-Spreadsheet-Documentation/index.html) - A Google Sheets template to manage a team's availability, tryout map pools, compare your teams's and opponent scores
 - [Squink's Tournament History Template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U/edit?gid=230730286#gid=230730286) - A Google Sheets template for tracking personal tournament history
 ---

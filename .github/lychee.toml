@@ -24,7 +24,6 @@ exclude = [
   'mutualify.stanr.info',
   'rx.stanr.info',
   'www.reddit.com',
-  'otu.stagec.xyz',
   'webosumania.com',
   'github.com/ShikkesoraSIM/anti-mindblock/releases/latest',
 ]
