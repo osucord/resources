@@ -45,7 +45,7 @@ This list is also available online at: https://resources.osucord.moe/
 ### Alternative Clients
 - [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
 - [McOsu](https://store.steampowered.com/app/607260/McOsu/) - osu! clone with various training tools and VR support
-- [Web osu!mania](https://web-osu-mania.pages.dev/) - Play osu!mania in the browser
+- [Web osu!mania](https://webosumania.com/) - Play osu!mania in the browser
 - [osu!droid](https://osudroid.moe/) - osu! clone for Android devices
 ---
 ### Training Tools
