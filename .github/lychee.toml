@@ -26,4 +26,5 @@ exclude = [
   'www.reddit.com',
   'webosumania.com',
   'github.com/ShikkesoraSIM/anti-mindblock/releases/latest',
+  'otmd.app',
 ]
