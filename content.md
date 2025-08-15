@@ -4,12 +4,12 @@ This list is also available online at: https://resources.osucord.moe/
 
 -# Is something missing? Contribute to this list on [GitHub](https://github.com/osucord/resources).
 ---
-### Official links
+### Official Links
 - [@osugame YouTube](https://www.youtube.com/@osugame) - The official osu! YouTube channel for game updates and staff interviews
 - [@osugame Twitter](https://x.com/osugame) - The official osu! Twitter account highlighting featured artists and official tournaments
 - [osu!wiki](https://osu.ppy.sh/wiki/en/Main_page) - Tons of different articles about osu!
 - [osu! tournaments](https://osu.ppy.sh/community/tournaments) - The listing of ongoing and past tournaments ran by the official game staff
-- [osu! Discord servers](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various discord servers made by the osu! community
+- [osu! Discord servers](https://osu.ppy.sh/wiki/en/Community/Discord_servers#official-osu!-server) - List of various Discord servers made by the osu! community
 - [ppy blog](https://blog.ppy.sh/) - Peppy's osu! development blog (not very active, but great a snapshot of osu! history)
 ---
 ### Tablets
@@ -104,11 +104,11 @@ This list is also available online at: https://resources.osucord.moe/
 - [score inspector](https://github.com/darkchii/score-inspector-extension) - A userscript that adds more stats to user profiles on the official osu! website (Extension compatible with the [osu! scores inspector](https://score.kirino.sh/))
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
-- [pp calculator](https://osu.ppy.sh/community/forums/topics/1504072?n=1) - Calculate how much PP a map is worth for a particular score
+- [pp calculator](https://osu.ppy.sh/community/forums/topics/1504072?n=1) - Calculate how much pp a map is worth for a particular score
 - [osu-color-changer](https://userstyles.world/style/1767/osu-color-changer) - A userstyle allowing various colour and stylistic changes for the osu! website, featuring many customization options
 ---
 ### Streaming
-- [Tosu](https://tosu.app) - Memory reader for Stable and osu! lazer, that provides overlays (pp counters) and supports tournaments client (Stable only)
+- [Tosu](https://tosu.app) - Memory reader for Stable and osu!lazer, that provides overlays (pp counters) and supports tournaments client (Stable only)
 - [gosumemory](https://github.com/l3lackShark/gosumemory) - Cross-Platform memory reader for osu! offering a number of preset overlays
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - Provides various overlays such as pp counters, map information, and more. Can be used for streaming or in-game
 - [Ronnia](https://ronnia.me/) - Twitch/osu! bot that sends beatmap requests from Twitch chat to the streamer's in-game messages
@@ -126,9 +126,9 @@ This list is also available online at: https://resources.osucord.moe/
 ### Discord Bots
 - [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich bot with functionality all around osu! - check your recent plays, compare top scores among players, play the background guessing game and more
 - [owo](http://owo-bot.xyz/) - A general-purpose bot to show off your profile/recent plays, get map recommendations, compare yourself to others and more
-- [Yuna](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480) - The official [o!rdr](https://ordr.issou.best/) bot, useful to render replays through discord chat
+- [Yuna](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480) - The official [o!rdr](https://ordr.issou.best/) bot, useful to render replays through Discord chat
 - [AxerBot](https://github.com/Hiviexd/AxerBot) - A general-purpose and powerful bot with osu! features related to mapping & modding
-- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A tool to analyze misses in an osu! replay (has a discord bot and program to run locally)
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A tool to analyze misses in an osu! replay (has a Discord bot and program to run locally)
 ---
 ### In-game Bots
 These are some of the bots that can be used in the in-game chat. Find the account by username and message them with the commands to get a response.

@@ -4,7 +4,7 @@
 
 This repository contains a curated list of links to various resources for osu! game. The resources are categorized into different sections and are maintained by the community.
 
-The list is open for contributions from anyone. If you have a resource that you think should be added to the list, you can do so by following the instructions below.
+The list is open for contributions from anyone. If you have a resource that you think should be added to the list, you can do so by following the steps below.
 
 ## The list
 
@@ -14,7 +14,7 @@ This list is also displayed in the `#osu-resources` channel on the [osu! Game Co
 
 ## Maintenance
 
-We have a system in place that checks all the resources in the list daily to notify us about potentially broken links so we could promptly fix or remove them. Any links submitted as a pull request will also be checked automatically to make sure broken links are not added by accident.
+We have a system in place that checks all the resources in the list daily to notify us of potentially broken links so we can promptly fix or remove them. Any links submitted as a pull request are also checked automatically to ensure that broken links are not added by accident.
 
 If you find that there are broken links despite that, resources that are no longer functional, or links that lead to something else than what is described next to them - please [create an issue](https://github.com/osucord/resources/issues/new).
 
@@ -22,15 +22,15 @@ If you find that there are broken links despite that, resources that are no long
 
 If you are unfamiliar with how GitHub works, you can contribute by following these steps:
 
-1. [Create a GitHub account](https://github.com/signup) in case you don't have one yet, then log in.
+1. [Create a GitHub account](https://github.com/signup) if you don’t already have one, and log in.
 2. At the top of this page, click on the [Fork](https://github.com/osucord/resources/fork) button.
 
 This will create a copy of this repository in your account. You can now make changes to the contents of this repository:
 
-1. Navigate to the forked repository in your account and press the `.` (period) key on your keyboard. This will open the repository in an online editor.
+1. Navigate to the forked repository in your account and press the `.` (period) key on your keyboard. This opens the repository in an online editor.
 2. Make changes to the `content.md` file. You can add new resources or modify existing ones to give them better descriptions.
 
-If you decide to close the page, the changes you made will be saved as in browser and you can continue editing them later.
+If you close the page, the changes you made will be saved in the browser and you can continue editing them later.
 
 Once you are done with your changes, you have to commit them to the repository:
 
@@ -51,8 +51,8 @@ That's it! The maintainers of the repository will review your changes and approv
 
 ## What resources can be added?
 
-You can add any resource you believe would be useful for the osu! community. This includes, but is not limited to:
-- Websites members of the community might find useful.
+You can add any resource you believe is useful for the osu! community. This includes, but is not limited to:
+- Websites that members of the community might find useful.
 - Tools for osu! players, streamers, mappers, skinners, etc.
 - Guides, tutorials and videos for various aspects of the game.
 
@@ -63,15 +63,15 @@ Your contributions may be rejected if:
 - The resource is already on the list.
 - The resource is not accessible to everyone (i.e. it requires a subscription).
 - The tool is not maintained or is outdated.
-- The tool is not useful or relevant to the community, or it has very few active users.
+- The tool is not useful or relevant to the community or has very few active users.
 
 ## Acknowledgments
 
 This list has been created and is currently primarily maintained by the staff of the [osu! Game Community Discord server](https://discord.gg/osu), with contributions from our community. The list of users who have directly contributed to this repository can be found [here](https://github.com/osucord/resources/graphs/contributors).
 
 Parts of the list have been adapted from:
-- [awesome-osu](https://github.com/cl8n/awesome-osu/) - Project with very similar goals which is now left unmaintained, with many broken links.
-- [List of osu! bots](https://osu.ppy.sh/community/forums/topics/1662993) - The in-game bots that are still functional and available were added to this list.
+- [awesome-osu](https://github.com/cl8n/awesome-osu/) - Project with very similar goals which is now left unmaintained, which contains many broken links.
+- [List of osu! bots](https://osu.ppy.sh/community/forums/topics/1662993) - Functional and available in-game bots have been added to this list.
 - [osu! Development forum](https://osu.ppy.sh/community/forums/2) - Where people go to tell the world about their projects related to osu!
 - [osu!tools](https://osutools.com/) - List of 3rd party tools related to osu!
 - [awesome-osu-tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of links for osu! tournament managers
