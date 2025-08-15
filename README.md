@@ -14,7 +14,7 @@ This list is also displayed in the `#osu-resources` channel on the [osu! Game Co
 
 ## Maintenance
 
-We have a system in place that checks all the resources in the list daily to notify us about potentially broken links so we could promptly fix or remove them. Any links submitted as a pull request will also be checked automatically to make sure broken links are not added by accident.
+We have a system in place that checks all the resources in the list daily to notify us about potentially broken links so we can promptly fix or remove them. Any links submitted as a pull request will also be checked automatically to make sure broken links are not added by accident.
 
 If you find that there are broken links despite that, resources that are no longer functional, or links that lead to something else than what is described next to them - please [create an issue](https://github.com/osucord/resources/issues/new).
 
@@ -30,7 +30,7 @@ This will create a copy of this repository in your account. You can now make cha
 1. Navigate to the forked repository in your account and press the `.` (period) key on your keyboard. This will open the repository in an online editor.
 2. Make changes to the `content.md` file. You can add new resources or modify existing ones to give them better descriptions.
 
-If you decide to close the page, the changes you made will be saved as in browser and you can continue editing them later.
+If you decide to close the page, the changes you made will be saved in the browser and you can continue editing them later.
 
 Once you are done with your changes, you have to commit them to the repository:
 
