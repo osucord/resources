@@ -14,7 +14,7 @@ This list is also displayed in the `#osu-resources` channel on the [osu! Game Co
 
 ## Maintenance
 
-We have a system in place that checks all the resources in the list daily to notify us about potentially broken links so we can promptly fix or remove them. Any links submitted as a pull request will also be checked automatically to make sure broken links are not added by accident.
+We have a system in place that checks all the resources in the list daily to notify us of potentially broken links so we can promptly fix or remove them. Any links submitted as a pull request will also be checked automatically to make sure broken links are not added by accident.
 
 If you find that there are broken links despite that, resources that are no longer functional, or links that lead to something else than what is described next to them - please [create an issue](https://github.com/osucord/resources/issues/new).
 
@@ -52,7 +52,7 @@ That's it! The maintainers of the repository will review your changes and approv
 ## What resources can be added?
 
 You can add any resource you believe is useful for the osu! community. This includes, but is not limited to:
-- Websites members of the community might find useful.
+- Websites that members of the community might find useful.
 - Tools for osu! players, streamers, mappers, skinners, etc.
 - Guides, tutorials and videos for various aspects of the game.
 
@@ -63,14 +63,14 @@ Your contributions may be rejected if:
 - The resource is already on the list.
 - The resource is not accessible to everyone (i.e. it requires a subscription).
 - The tool is not maintained or is outdated.
-- The tool is not useful or relevant to the community, or it has very few active users.
+- The tool is not useful or relevant to the community or has very few active users.
 
 ## Acknowledgments
 
 This list has been created and is currently primarily maintained by the staff of the [osu! Game Community Discord server](https://discord.gg/osu), with contributions from our community. The list of users who have directly contributed to this repository can be found [here](https://github.com/osucord/resources/graphs/contributors).
 
 Parts of the list have been adapted from:
-- [awesome-osu](https://github.com/cl8n/awesome-osu/) - Project with very similar goals which is now left unmaintained, with many broken links.
+- [awesome-osu](https://github.com/cl8n/awesome-osu/) - Project with very similar goals which is now left unmaintained, which contains many broken links.
 - [List of osu! bots](https://osu.ppy.sh/community/forums/topics/1662993) - The in-game bots that are still functional and available were added to this list.
 - [osu! Development forum](https://osu.ppy.sh/community/forums/2) - Where people go to tell the world about their projects related to osu!
 - [osu!tools](https://osutools.com/) - List of 3rd party tools related to osu!
