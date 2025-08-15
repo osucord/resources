@@ -30,7 +30,7 @@ This will create a copy of this repository in your account. You can now make cha
 1. Navigate to the forked repository in your account and press the `.` (period) key on your keyboard. This will open the repository in an online editor.
 2. Make changes to the `content.md` file. You can add new resources or modify existing ones to give them better descriptions.
 
-If you decide to close the page, the changes you made will be saved in the browser and you can continue editing them later.
+If you close the page, the changes you made will be saved in the browser and you can continue editing them later.
 
 Once you are done with your changes, you have to commit them to the repository:
 
@@ -51,7 +51,7 @@ That's it! The maintainers of the repository will review your changes and approv
 
 ## What resources can be added?
 
-You can add any resource you believe would be useful for the osu! community. This includes, but is not limited to:
+You can add any resource you believe is useful for the osu! community. This includes, but is not limited to:
 - Websites members of the community might find useful.
 - Tools for osu! players, streamers, mappers, skinners, etc.
 - Guides, tutorials and videos for various aspects of the game.
