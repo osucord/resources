@@ -29,4 +29,6 @@ exclude = [
   'otmd.app',
   'tosu.app',
   'osuck.net',
+  'layendan.dev',
+  'circleclickers.com',
 ]
