@@ -28,5 +28,5 @@ exclude = [
   'github.com/ShikkesoraSIM/anti-mindblock/releases/latest',
   'otmd.app',
   'tosu.app',
-  'skins.osuck.net',
+  'osuck.net',
 ]
