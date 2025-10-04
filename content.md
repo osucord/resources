@@ -25,6 +25,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
 - [Rewind](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
 - [osu-aim-analyzer](https://github.com/rgbeing/osu-aim-analyzer) - A replay analysis tool to help analyze aim mistakes
+- <@&1423008037517660282> [Replay analyzer](https://analyzer.osu.report/) - See the hit error, frametime and holdtime distributions of replays
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
@@ -150,5 +151,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
 - [Mutualify](https://mutualify.stanr.info/) - Find people that are following you, but that you have not mutualed
 - [osu! beatmap heatmap](https://osu-heatmap.ekga.me/) - View the playfield usage of a beatmap, sometimes revealing a hidden beauty some mappers hide in their maps
-- <@&1423008037517660282> [Replay analyzer](https://analyzer.osu.report/) - See the hit error, frametime and holdtime distributions of replays
 - <@&1423008037517660282> [osu!guessr](https://osuguessr.com/) - Guess the songs from backgrounds or short audio clips
