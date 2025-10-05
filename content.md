@@ -25,6 +25,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
 - [Rewind](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
 - [osu-aim-analyzer](https://github.com/rgbeing/osu-aim-analyzer) - A replay analysis tool to help analyze aim mistakes
+- <@&1423008037517660282> [Replay analyzer](https://analyzer.osu.report/) - See the hit error, frametime and holdtime distributions of replays
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
@@ -32,6 +33,8 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
 - [osu!live](https://osulive.mittens.cc/) - Watch a live feed of global score submissions
+- [osu! realtime stats](https://stats.circleclickers.com/) - See how many people are playing the game throughtout the day
+  - <@&1423008037517660282> [osu!lazer realtime stats](https://stats.osuck.net/) - Same idea, but for osu!lazer players
 ---
 ### Alternative Leaderboards
 - [Osekai](https://inex.osekai.net/) - Medal solutions and alternative rankings
@@ -41,6 +44,8 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!Skills](https://osuskills.com/) - Ranking based on individual skills
 - [osu!snipe](https://snipe.huismetbenen.nl/rankings/all) - Website for tracking various leaderboards, such as country #1 rankings
 - [Relaxation Vault](https://rx.stanr.info/) - osu!lazer relax leaderboard
+- <@&1423008037517660282> [osu!Skill](https://osuskill.com/) - See how good you are compared to your peak performance
+- <@&1423008037517660282> [RomAI](https://rom-ai-site.vercel.app/) - Multiplayer matchmaker with an ELO based leaderboard
 ---
 ### Alternative Clients
 - [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
@@ -73,6 +78,8 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
 - [osu!pps](https://osu-pps.com/#/osu/maps) - Website for finding common farm maps within your skill range
 - [osu! Beatmap Atlas](https://osu-atlas.ameo.dev/) - A map that groups similar beatmaps together in space
+- <@&1423008037517660282> [osu!Pulse](https://pulse.layendan.dev/) - Find similar beatmaps based on osu!Skills evaluations of them
+- <@&1423008037517660282> [Rekosu](https://osu.rekosu.sh/) - Find similar beatmaps based on their AI embeddings
 ---
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
@@ -95,9 +102,12 @@ This list is also available online at: https://resources.osucord.moe/
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping
 - [Naxesss' Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) - Tools to make sure your map is ready for ranking ([taiko](https://github.com/Hiviexd/MVTaikoChecks)/[mania](https://github.com/MChecaH/ManiaCheck) plugins)
 - [osu! Web Beatmap Viewer](https://preview.tryz.id.vn/) - View a beatmap in an editor-like interface in the browser
+  - <@&1423008037517660282> [Catch Map Visualizer](https://ctb-vis.vercel.app/) - For osu!catch beatmaps
 - [Agka's SV Tools](https://zardoru.github.io/sv-tools/) - Tools to help create and edit Scroll Velocities for the osu!mania mode
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
 - [osucad](https://osucad.com/) - A collaborative beatmap editor
+- <@&1423008037517660282> [MapWizard](https://mapwizard.maot.dev/) - Standard mode toolset to copy hitsounds and manage metadata
+- <@&1423008037517660282> [Tempora](https://github.com/teamkongehund/Tempora) - A tool to effortlessly time maps with variable BPM
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
@@ -141,3 +151,4 @@ These are some of the bots that can be used in the in-game chat. Find the accoun
 - [Alexaaro's Imagemap Generator](https://alexaario.github.io/osu-BBCodeImagemapGenerator/) - A tool to create BBCode for imagemaps
 - [Mutualify](https://mutualify.stanr.info/) - Find people that are following you, but that you have not mutualed
 - [osu! beatmap heatmap](https://osu-heatmap.ekga.me/) - View the playfield usage of a beatmap, sometimes revealing a hidden beauty some mappers hide in their maps
+- <@&1423008037517660282> [osu!guessr](https://osuguessr.com/) - Guess the songs from backgrounds or short audio clips

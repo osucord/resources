@@ -1,6 +1,9 @@
 import showdown from "showdown";
 import { parse } from "node-html-parser";
 
+const NEW_BADGE_MARKER = "<@&1423008037517660282>";
+const NEW_BADGE_HTML = '<span class="bg-yellow-500 px-[8px] py-[1px] text-black font-bold rounded-xl">new!</span>';
+
 interface CardData {
   title: string;
   content: string;
@@ -18,6 +21,7 @@ export function processContent(content: string): CardData[] {
   });
 
   return sections
+    .map((section) => section.replaceAll(NEW_BADGE_MARKER, NEW_BADGE_HTML))
     .map((section) => markdownConverter.makeHtml(section))
     .map((html) => modifyContentHtml(html));
 }

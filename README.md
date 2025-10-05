@@ -76,3 +76,4 @@ Parts of the list have been adapted from:
 - [osu!tools](https://osutools.com/) - List of 3rd party tools related to osu!
 - [awesome-osu-tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of links for osu! tournament managers
     - Special thanks to [MiraiSubject](https://github.com/MiraiSubject) for direct input for additions to the resources
+- [tools.osuck](https://tools.osuck.net/) - cpol's website for osu tools and resouces
