@@ -115,7 +115,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! preview](https://github.com/JerryZhu99/osu-preview) - Preview a beatmap without downloading it
 - [osu! subdivide nations](https://github.com/Cavitedev/osu-subdivide-nations) - Display the regional flags and names of players on the official osu! website as well as other unofficial sites (Extension compatible with [osu! World](https://osuworld.octo.moe/))
 - [pp calculator](https://osu.ppy.sh/community/forums/topics/1504072?n=1) - Calculate how much pp a map is worth for a particular score
-- [osu-color-changer](https://userstyles.world/style/1767/osu-color-changer) - A userstyle allowing various colour and stylistic changes for the osu! website, featuring many customization options
+- [osu-color-changer](https://userstyles.world/style/1767) - A userstyle allowing various colour and stylistic changes for the osu! website, featuring many customization options
 ---
 ### Streaming
 - [Tosu](https://tosu.app) - Memory reader for Stable and osu!lazer, that provides overlays (pp counters) and supports tournaments client (Stable only)
