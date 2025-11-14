@@ -29,7 +29,7 @@ This list is also available online at: https://resources.osucord.moe/
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
-  - [Daily Challenge Stats](https://ameobea.me/osutrack/daily-challenge/) - View personal and global stats for daily challenges
+  - [Daily Challenge Stats](https://ameobea.me/osutrack/daily-challenge) - View personal and global stats for daily challenges
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
 - [osu!live](https://osulive.mittens.cc/) - Watch a live feed of global score submissions
