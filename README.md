@@ -18,36 +18,11 @@ We have a system in place that checks all the resources in the list daily to not
 
 If you find that there are broken links despite that, resources that are no longer functional, or links that lead to something else than what is described next to them - please [create an issue](https://github.com/osucord/resources/issues/new).
 
-## How to contribute
+## Marking new resouces
 
-If you are unfamiliar with how GitHub works, you can contribute by following these steps:
+To mark resource as "new", add `<@&1423008037517660282>` before the resource name. On Discord this will appear as an at-mention for a dummy role. On the website, it will be displayed as a badge.
 
-1. [Create a GitHub account](https://github.com/signup) if you don’t already have one, and log in.
-2. At the top of this page, click on the [Fork](https://github.com/osucord/resources/fork) button.
-
-This will create a copy of this repository in your account. You can now make changes to the contents of this repository:
-
-1. Navigate to the forked repository in your account and press the `.` (period) key on your keyboard. This opens the repository in an online editor.
-2. Make changes to the `content.md` file. You can add new resources or modify existing ones to give them better descriptions.
-
-If you close the page, the changes you made will be saved in the browser and you can continue editing them later.
-
-Once you are done with your changes, you have to commit them to the repository:
-
-1. On the left, find the "Source Control" button (it should have a number next to it indicating uncommitted changes) and click on it.
-2. You will see a list of files that you have changed. You can review the changes by clicking on the file names.
-3. At the top of the source control panel - write a message that describes the changes you made.
-4. Press the `Commit & push` button. This will save your changes to your repository.
-
-You can continue making changes to your repository and commit them as many times as you want. It's a good idea to make changes in batches that make logical sense together and commit them as a single change.
-
-At this point, the changes are only in your personal repository. To submit them to the main repository you have to create a pull request:
-
-1. In the same source control panel, at the top - find and click the `Create Pull Request` button.
-2. Give your pull request a title and a description that explains what changes you made.
-3. Press the `Create` button.
-
-That's it! The maintainers of the repository will review your changes and approve them as soon as possible. After merging them into the main repository, your changes will be visible to everyone on the Discord server shortly. We appreciate the contribution.
+Note that the "new" badge should be applied to resources that are generally new, not just new to the list.
 
 ## What resources can be added?
 
