@@ -32,7 +32,6 @@ This list is also available online at: https://resources.osucord.moe/
   - [Daily Challenge Stats](https://ameobea.me/osutrack/daily-challenge) - View personal and global stats for daily challenges
 - [osu!Stats](https://osustats.ppy.sh/) - Find scores that fit certain parameters
 - [osu!daily](https://osudaily.net/) - Track your profile, score, pp, and more
-- [osu!live](https://osulive.mittens.cc/) - Watch a live feed of global score submissions
 - [osu! realtime stats](https://stats.circleclickers.com/) - See how many people are playing the game throughtout the day
   - [osu!lazer realtime stats](https://stats.osuck.net/) - Same idea, but for osu!lazer players
 ---
@@ -44,7 +43,6 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu!Skills](https://osuskills.com/) - Ranking based on individual skills
 - [osu!snipe](https://snipe.huismetbenen.nl/rankings/all) - Website for tracking various leaderboards, such as country #1 rankings
 - [Relaxation Vault](https://rx.stanr.info/) - osu!lazer relax leaderboard
-- [osu!Skill](https://osuskill.com/) - See how good you are compared to your peak performance
 - [RomAI](https://rom-ai-site.vercel.app/) - Multiplayer matchmaker with an ELO based leaderboard
 ---
 ### Alternative Clients
