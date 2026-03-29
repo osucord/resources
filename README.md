@@ -20,7 +20,7 @@ If you find that there are broken links despite that, resources that are no long
 
 ## Marking new resouces
 
-To mark resource as "new", add `<@&1423008037517660282>` before the resource name. On Discord this will appear as an at-mention for a dummy role. On the website, it will be displayed as a badge.
+To mark resource as "new", add `<@&1487853596371320892>` before the resource name. On Discord this will appear as an at-mention for a dummy role. On the website, it will be displayed as a badge.
 
 Note that the "new" badge should be applied to resources that are generally new, not just new to the list.
 
