@@ -54,6 +54,7 @@ This list is also available online at: https://resources.osucord.moe/
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
+- <@&1423008037517660282> [Companella](https://github.com/Leinadix/companella) - osu!mania rate changer, marathon creator, personalized practice recommendations, progress tracking and more
 - [Shikke's Anti-Mindblock](https://github.com/ShikkesoraSIM/anti-mindblock/releases/latest) - A tool to quickly flip your monitor upside-down to help with mind-block
 ---
 ### Guides
