@@ -79,6 +79,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! Beatmap Atlas](https://osu-atlas.ameo.dev/) - A map that groups similar beatmaps together in space
 - [osu!Pulse](https://pulse.layendan.dev/) - Find similar beatmaps based on osu!Skills evaluations of them
 - [Rekosu](https://osu.rekosu.sh/) - Find similar beatmaps based on their AI embeddings
+- <@&1487853596371320892> [Hinai](https://hinamizawa.ai/osu/beatmaps) - Rust Beatmap mirror with built-in PP calculator, Beatmaps download, Map Packs with PP, map packs, music player, tournament finder and more! (No login required)
 ---
 ### Skins
 - [osuck](https://skins.osuck.net/) - Website to get skins for all game modes
