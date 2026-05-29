@@ -104,12 +104,12 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! Web Beatmap Viewer](https://preview.tryz.id.vn/) - View a beatmap in an editor-like interface in the browser
   - [Catch Map Visualizer](https://ctb-vis.vercel.app/) - For osu!catch beatmaps
 - [Agka's SV Tools](https://zardoru.github.io/sv-tools/) - Tools to help create and edit Scroll Velocities for the osu!mania mode
-- [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
-  - [DDReam Studio](https://www.flashflashrevolution.com/vbz/showthread.php?p=3672495) - An older editor for various VSRGs 
 - [osucad](https://osucad.com/) - A collaborative beatmap editor
 - [MapWizard](https://mapwizard.maot.dev/) - Standard mode toolset to copy hitsounds and manage metadata
 - [Tempora](https://github.com/teamkongehund/Tempora) - A tool to effortlessly time maps with variable BPM
-- [re:amber](https://github.com/Eve-ning/reamber) - A tool to improve on the editor's beatmap timing features
+- [re:amber](https://github.com/Eve-ning/reamber) - A tool that improves beatmap timing workflows
+- [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
+  - [DDReam Studio](https://www.flashflashrevolution.com/vbz/showthread.php?p=3672495) - Legacy editor for various VSRGs 
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
