@@ -107,9 +107,8 @@ This list is also available online at: https://resources.osucord.moe/
 - [osucad](https://osucad.com/) - A collaborative beatmap editor
 - [MapWizard](https://mapwizard.maot.dev/) - Standard mode toolset to copy hitsounds and manage metadata
 - [Tempora](https://github.com/teamkongehund/Tempora) - A tool to effortlessly time maps with variable BPM
-- [re:amber](https://github.com/Eve-ning/reamber) - A tool that improves beatmap timing workflows
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
-  - [DDReam Studio](https://www.flashflashrevolution.com/vbz/showthread.php?p=3672495) - Legacy editor for various VSRGs 
+  - [DDReam Studio](https://www.flashflashrevolution.com/vbz/showthread.php?p=3672495) - Legacy editor for various VSRGs
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
