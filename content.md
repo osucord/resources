@@ -96,6 +96,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [Net0's Hitsound Library](https://drive.google.com/drive/u/0/folders/1xpfSzxPxBH932BKHr5rk6lk6lGd1DbIq) - A folder full of sorted samples for beatmaps
 - [Lasse's Hitsounding Guide](https://docs.google.com/document/d/1tS5udToW_SEiCKNFSg7DUuZmsdroUOO8cRYEcwZV9P8/edit) - A guide for those learning hitsounding
 - [Sliderbase](https://photos.google.com/share/AF1QipM-5gNgHPHcVQomyu8xFlHw25h4KoQptjBkGg6WV8wtJtdvhXP2eTYcSlJbNLXziQ?pli=1&key=N1FWWk81ZFpBdGVwajZIS3A0cHB0ZUxDZWpFT2Vn) - A collection of sliders for beatmaps
+- [osu!mania Research Lab](https://niv.gay/osumania-research-lab/index.html) - A collection of write-ups on certain glitched note types in osu!mania
 ---
 ### Mapping Tools
 - [OliBomby's Mapping Tools](https://mappingtools.github.io/) - Advanced tools to facilitate mapping
@@ -103,10 +104,11 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! Web Beatmap Viewer](https://preview.tryz.id.vn/) - View a beatmap in an editor-like interface in the browser
   - [Catch Map Visualizer](https://ctb-vis.vercel.app/) - For osu!catch beatmaps
 - [Agka's SV Tools](https://zardoru.github.io/sv-tools/) - Tools to help create and edit Scroll Velocities for the osu!mania mode
-- [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
 - [osucad](https://osucad.com/) - A collaborative beatmap editor
 - [MapWizard](https://mapwizard.maot.dev/) - Standard mode toolset to copy hitsounds and manage metadata
 - [Tempora](https://github.com/teamkongehund/Tempora) - A tool to effortlessly time maps with variable BPM
+- [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
+  - [DDReam Studio](https://www.flashflashrevolution.com/vbz/showthread.php?p=3672495) - Legacy editor for various VSRGs
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
