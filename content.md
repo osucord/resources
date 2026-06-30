@@ -26,7 +26,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [Rewind](https://github.com/abstrakt8/rewind) - Analyze replays in meticulous detail
 - [osu-aim-analyzer](https://github.com/rgbeing/osu-aim-analyzer) - A replay analysis tool to help analyze aim mistakes
 - [Replay analyzer](https://analyzer.osu.report/) - See the hit error, frametime and holdtime distributions of replays
-- <@&1487853596371320892> [replayviewer](https://www.replayviewer.com/) - Render replays, ranked play, and tournament matches for ALL gamemodes natively in-browser 
+- <@&1487853596371320892> [replayviewer](https://www.replayviewer.com/) - Render replays, ranked play, and tournament matches (for all gamemodes)
 ---
 ### Stats Trackers
 - [osu!track](https://ameobea.me/osutrack/) - Track your pp gains and top 100 scores over time
