@@ -109,7 +109,7 @@ This list is also available online at: https://resources.osucord.moe/
 - [MapWizard](https://mapwizard.maot.dev/) - Standard mode toolset to copy hitsounds and manage metadata
 - [Tempora](https://github.com/teamkongehund/Tempora) - A tool to effortlessly time maps with variable BPM
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Alternative map editor for various VSRGs
-  - [DDReam Studio](https://www.flashflashrevolution.com/vbz/showthread.php?p=3672495) - Legacy editor for various VSRGs
+  - [DDReam Studio](https://www.flashflashrevolution.com/vbz/home/forum/gaming/stepmania/100621-ddreamstudio-official-guide) - Legacy editor for various VSRGs
 ---
 ### Browser Extensions
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - Extension that adds extra features to the osu! website
@@ -137,7 +137,7 @@ This list is also available online at: https://resources.osucord.moe/
 ---
 ### Discord Bots
 - [BathBot](https://github.com/MaxOhn/Bathbot) - A feature-rich bot with functionality all around osu! - check your recent plays, compare top scores among players, play the background guessing game and more
-- [owo](http://owo-bot.xyz/) - A general-purpose bot to show off your profile/recent plays, get map recommendations, compare yourself to others and more
+- [owo](https://owo-bot.xyz/) - A general-purpose bot to show off your profile/recent plays, get map recommendations, compare yourself to others and more
 - [Yuna](https://discord.com/oauth2/authorize?client_id=832597585923014676&scope=bot&permissions=60480) - The official [o!rdr](https://ordr.issou.best/) bot, useful to render replays through Discord chat
 - [AxerBot](https://github.com/Hiviexd/AxerBot) - A general-purpose and powerful bot with osu! features related to mapping & modding
 - [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) - A tool to analyze misses in an osu! replay (has a Discord bot and program to run locally)
