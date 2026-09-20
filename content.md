@@ -22,7 +22,7 @@ This list is also available online at: https://resources.osucord.moe/
 - Custom firmware - community made projects to squeeze more performance from your tablet 
   - <@&1487853596371320892> [xstarry's Wacom firmware](https://xstarry.dev/firmware)
   - <@&1487853596371320892> [shavit's Wacom firmware](https://files.shav.it/osu/tablet/)
-  - <@&1487853596371320892> [catears124's Gaomon firmware](https://files.shav.it/osu/tablet/)
+  - <@&1487853596371320892> [catears124's Gaomon firmware](https://tablet.ears.cat/)
 ---
 ### Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally
