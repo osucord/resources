@@ -20,6 +20,17 @@ This list is also available online at: https://resources.osucord.moe/
   - [Kuuube's Wacom Tablet Pen Compatibility Mastersheet](https://docs.google.com/spreadsheets/d/1UAFPjGj0ThthPBvOSVVwOm08HW3qWtVoP1iFBwLMyPI/edit)
   - [Kuuube's Wacom Pen Nib Guide](https://kuuube.s-ul.eu/OMxd0twx)
 ---
+### Tablet Firmware
+
+_**Warning - use at your own risk**_
+- _voids warranty, could brick your tablet_
+- _often disables most tablet features to maximize polling rate_
+- _report issues with tablet to firmware authors first_
+
+- <@&1487853596371320892> [xstarry's Wacom firmware](https://xstarry.dev/firmware) - up to 700hz polling rate, widest support
+- <@&1487853596371320892> [shavit's Wacom firmware](https://files.shav.it/osu/tablet/) - up to 1000hz polling rate for select models
+- <@&1487853596371320892> [catears124's Gaomon firmware](https://tablet.ears.cat/)
+---
 ### Replay and Score Analysis
 - [Danser-Go](https://github.com/Wieku/danser-go) - Render your replays locally
 - [o!rdr](https://ordr.issou.best/) - Render your replays online (powered by Danser-Go!)
